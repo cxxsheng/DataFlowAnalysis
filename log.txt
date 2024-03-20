@@ -1,0 +1,1052 @@
+[2024-03-14 06:40:14.700] start handling /home/cs/Downloads/apks/id.dana ...
+[2024-03-14 06:40:52.303] Class sizing... 75838
+[2024-03-14 06:40:52.305] calling void writeToParcel(android.os.Parcel,int) in com.alipay.iap.android.aplog.api.InitParams
+[2024-03-14 06:40:52.492] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alipay.iap.android.aplog.api.InitParams$1
+[2024-03-14 06:40:52.506] true com.alipay.iap.android.aplog.api.InitParams
+[2024-03-14 06:40:52.507] calling void writeToParcel(android.os.Parcel,int) in com.google.firebase.perf.metrics.Trace
+[2024-03-14 06:40:52.527] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.firebase.perf.metrics.Trace$1
+[2024-03-14 06:40:52.548] true com.google.firebase.perf.metrics.Trace
+[2024-03-14 06:40:52.549] calling void writeToParcel(android.os.Parcel,int) in com.google.firebase.perf.session.PerfSession
+[2024-03-14 06:40:52.553] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.firebase.perf.session.PerfSession$1
+[2024-03-14 06:40:52.562] true com.google.firebase.perf.session.PerfSession
+[2024-03-14 06:40:52.563] calling void writeToParcel(android.os.Parcel,int) in id.dana.model.CurrencyAmountModel
+[2024-03-14 06:40:52.566] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.model.CurrencyAmountModel$1
+[2024-03-14 06:40:52.568] true id.dana.model.CurrencyAmountModel
+[2024-03-14 06:40:52.569] calling void writeToParcel(android.os.Parcel,int) in id.dana.data.config.model.PayLaterMethodConfig
+[2024-03-14 06:40:52.572] code wrong with id.dana.data.config.model.PayLaterMethodConfig cannot find creator
+[2024-03-14 06:40:52.573] calling void writeToParcel(android.os.Parcel,int) in com.google.firebase.perf.metrics.Counter
+[2024-03-14 06:40:52.576] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.firebase.perf.metrics.Counter$1
+[2024-03-14 06:40:52.582] true com.google.firebase.perf.metrics.Counter
+[2024-03-14 06:40:52.583] calling void writeToParcel(android.os.Parcel,int) in id.dana.model.CdpContentModel
+[2024-03-14 06:40:52.595] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.model.CdpContentModel$1
+[2024-03-14 06:40:52.612] true id.dana.model.CdpContentModel
+[2024-03-14 06:40:52.614] calling void writeToParcel(android.os.Parcel,int) in com.google.firebase.perf.util.Timer
+[2024-03-14 06:40:52.617] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.firebase.perf.util.Timer$1
+[2024-03-14 06:40:52.623] true com.google.firebase.perf.util.Timer
+[2024-03-14 06:40:52.624] calling void writeToParcel(android.os.Parcel,int) in id.dana.model.ThirdPartyService
+[2024-03-14 06:40:52.640] code wrong with id.dana.model.ThirdPartyService cannot find creator
+[2024-03-14 06:40:52.640] calling void writeToParcel(android.os.Parcel,int) in io.branch.referral.util.ContentMetadata
+[2024-03-14 06:40:52.651] calling java.lang.Object createFromParcel(android.os.Parcel) in io.branch.referral.util.ContentMetadata$1
+[2024-03-14 06:40:52.661] true io.branch.referral.util.ContentMetadata
+[2024-03-14 06:40:52.662] calling void writeToParcel(android.os.Parcel,int) in io.branch.indexing.BranchUniversalObject
+[2024-03-14 06:40:52.665] calling java.lang.Object createFromParcel(android.os.Parcel) in io.branch.indexing.BranchUniversalObject$1
+[2024-03-14 06:40:52.672] true io.branch.indexing.BranchUniversalObject
+[2024-03-14 06:40:52.673] calling void writeToParcel(android.os.Parcel,int) in com.moengage.pushbase.model.action.NavigationAction
+[2024-03-14 06:40:52.682] calling java.lang.Object createFromParcel(android.os.Parcel) in com.moengage.pushbase.model.action.NavigationAction$1
+[2024-03-14 06:40:52.684] true com.moengage.pushbase.model.action.NavigationAction
+[2024-03-14 06:40:52.684] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.ui.groupsend.recipient.model.ContactModel
+[2024-03-14 06:40:52.686] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.ui.groupsend.recipient.model.ContactModel$2
+[2024-03-14 06:40:52.689] true id.dana.sendmoney.ui.groupsend.recipient.model.ContactModel
+[2024-03-14 06:40:52.689] calling void writeToParcel(android.os.Parcel,int) in id.dana.model.GnContentModel
+[2024-03-14 06:40:52.692] code wrong with id.dana.model.GnContentModel cannot find creator
+[2024-03-14 06:40:52.693] code wrong with id.dana.model.PopUpParcel cannot find writeToParcel
+[2024-03-14 06:40:52.694] calling void writeToParcel(android.os.Parcel,int) in id.dana.ocr.model.BaseOCRResultModel
+[2024-03-14 06:40:52.696] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.ocr.model.BaseOCRResultModel$CREATOR
+[2024-03-14 06:40:52.699] true id.dana.ocr.model.BaseOCRResultModel
+[2024-03-14 06:40:52.699] calling void writeToParcel(android.os.Parcel,int) in id.dana.onboarding.createprofile.CreateProfileKey
+[2024-03-14 06:40:52.701] code wrong with id.dana.onboarding.createprofile.CreateProfileKey cannot find creator
+[2024-03-14 06:40:52.702] calling void writeToParcel(android.os.Parcel,int) in id.dana.ocr.model.OcrAndUploadTaskModel
+[2024-03-14 06:40:52.704] code wrong with id.dana.ocr.model.OcrAndUploadTaskModel cannot find creator
+[2024-03-14 06:40:52.705] calling void writeToParcel(android.os.Parcel,int) in id.dana.ocr.model.OCRResultModel
+[2024-03-14 06:40:52.707] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.ocr.model.OCRResultModel$CREATOR
+[2024-03-14 06:40:52.711] true id.dana.ocr.model.OCRResultModel
+[2024-03-14 06:40:52.711] calling void writeToParcel(android.os.Parcel,int) in id.dana.miniprogram.tnc.TncDetailMiniProgramActivity$StartParams
+[2024-03-14 06:40:52.713] code wrong with id.dana.miniprogram.tnc.TncDetailMiniProgramActivity$StartParams cannot find creator
+[2024-03-14 06:40:52.714] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.ui.groupsend.recipient.model.RecentBankModel
+[2024-03-14 06:40:52.716] code wrong with id.dana.sendmoney.ui.groupsend.recipient.model.RecentBankModel cannot find creator
+[2024-03-14 06:40:52.716] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.ui.groupsend.recipient.model.BankModel
+[2024-03-14 06:40:52.720] code wrong with id.dana.sendmoney.ui.groupsend.recipient.model.BankModel cannot find creator
+[2024-03-14 06:40:52.720] calling void writeToParcel(android.os.Parcel,int) in id.dana.ocr.model.OCRRequestModel
+[2024-03-14 06:40:52.722] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.ocr.model.OCRRequestModel$CREATOR
+[2024-03-14 06:40:52.727] true id.dana.ocr.model.OCRRequestModel
+[2024-03-14 06:40:52.727] calling void writeToParcel(android.os.Parcel,int) in id.dana.ocr.model.SubmitReceiptResultModel
+[2024-03-14 06:40:52.730] code wrong with id.dana.ocr.model.SubmitReceiptResultModel cannot find creator
+[2024-03-14 06:40:52.731] calling void writeToParcel(android.os.Parcel,int) in id.dana.miniprogram.tnc.TncServiceDialogActivity$StartParams
+[2024-03-14 06:40:52.733] code wrong with id.dana.miniprogram.tnc.TncServiceDialogActivity$StartParams cannot find creator
+[2024-03-14 06:40:52.735] calling void writeToParcel(android.os.Parcel,int) in com.iap.ac.android.acs.plugin.ui.model.CityModel
+[2024-03-14 06:40:52.736] calling java.lang.Object createFromParcel(android.os.Parcel) in com.iap.ac.android.acs.plugin.ui.model.CityModel$1
+[2024-03-14 06:40:52.738] true com.iap.ac.android.acs.plugin.ui.model.CityModel
+[2024-03-14 06:40:52.739] calling void writeToParcel(android.os.Parcel,int) in com.huawei.hms.support.api.entity.auth.PermissionInfo
+[2024-03-14 06:40:52.740] calling java.lang.Object createFromParcel(android.os.Parcel) in com.huawei.hms.support.api.entity.auth.PermissionInfo$a
+[2024-03-14 06:40:52.742] true com.huawei.hms.support.api.entity.auth.PermissionInfo
+[2024-03-14 06:40:52.743] calling void writeToParcel(android.os.Parcel,int) in com.huawei.hms.support.api.entity.auth.Scope
+[2024-03-14 06:40:52.744] calling java.lang.Object createFromParcel(android.os.Parcel) in com.huawei.hms.support.api.entity.auth.Scope$a
+[2024-03-14 06:40:52.746] true com.huawei.hms.support.api.entity.auth.Scope
+[2024-03-14 06:40:52.747] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.PaylaterOnboardingInfoModel
+[2024-03-14 06:40:52.751] code wrong with id.dana.cashier.model.PaylaterOnboardingInfoModel cannot find creator
+[2024-03-14 06:40:52.752] calling void writeToParcel(android.os.Parcel,int) in com.mixpanel.android.mpmetrics.UpdateDisplayState$AnswerMap
+[2024-03-14 06:40:52.754] calling java.lang.Object createFromParcel(android.os.Parcel) in com.mixpanel.android.mpmetrics.UpdateDisplayState$AnswerMap$1
+[2024-03-14 06:40:52.756] false com.mixpanel.android.mpmetrics.UpdateDisplayState$AnswerMap {} vs {Bundle}
+[2024-03-14 06:40:52.757] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.PaylaterOnboardingCdpModel
+[2024-03-14 06:40:52.758] code wrong with id.dana.cashier.model.PaylaterOnboardingCdpModel cannot find creator
+[2024-03-14 06:40:52.760] calling void writeToParcel(android.os.Parcel,int) in com.huawei.hms.push.RemoteMessage
+[2024-03-14 06:40:52.768] calling java.lang.Object createFromParcel(android.os.Parcel) in com.huawei.hms.push.b
+[2024-03-14 06:40:52.770] true com.huawei.hms.push.RemoteMessage
+[2024-03-14 06:40:52.771] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.PaylaterOnboardingBenefitModel
+[2024-03-14 06:40:52.772] code wrong with id.dana.cashier.model.PaylaterOnboardingBenefitModel cannot find creator
+[2024-03-14 06:40:52.773] calling void writeToParcel(android.os.Parcel,int) in com.iap.ac.android.acs.plugin.rpc.getphonenumber.model.MobilePhoneInfo
+[2024-03-14 06:40:52.775] calling java.lang.Object createFromParcel(android.os.Parcel) in com.iap.ac.android.acs.plugin.rpc.getphonenumber.model.MobilePhoneInfo$1
+[2024-03-14 06:40:52.777] true com.iap.ac.android.acs.plugin.rpc.getphonenumber.model.MobilePhoneInfo
+[2024-03-14 06:40:52.779] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.CashierMerchantWhitelistConfigModel
+[2024-03-14 06:40:52.780] code wrong with id.dana.cashier.model.CashierMerchantWhitelistConfigModel cannot find creator
+[2024-03-14 06:40:52.780] calling void writeToParcel(android.os.Parcel,int) in com.yalantis.ucrop.model.AspectRatio
+[2024-03-14 06:40:52.782] calling java.lang.Object createFromParcel(android.os.Parcel) in com.yalantis.ucrop.model.AspectRatio$1
+[2024-03-14 06:40:52.784] true com.yalantis.ucrop.model.AspectRatio
+[2024-03-14 06:40:52.784] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.griver.bluetooth.altbeacon.beacon.Region
+[2024-03-14 06:40:52.791] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.griver.bluetooth.altbeacon.beacon.Region$1
+[2024-03-14 06:40:52.803] unknown stop com.alibaba.griver.bluetooth.altbeacon.beacon.Region
+[2024-03-14 06:40:52.804] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.griver.base.resource.cache.GriverCacheDao
+[2024-03-14 06:40:52.808] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.griver.base.resource.cache.GriverCacheDao$1
+[2024-03-14 06:40:52.812] true com.alibaba.griver.base.resource.cache.GriverCacheDao
+[2024-03-14 06:40:52.812] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.griver.bluetooth.altbeacon.beacon.Beacon
+[2024-03-14 06:40:52.820] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.griver.bluetooth.altbeacon.beacon.Beacon$1
+[2024-03-14 06:40:52.832] unknown stop com.alibaba.griver.bluetooth.altbeacon.beacon.Beacon
+[2024-03-14 06:40:52.832] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.internal.ParcelableSparseBooleanArray
+[2024-03-14 06:40:52.835] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.internal.ParcelableSparseBooleanArray$1
+[2024-03-14 06:40:52.837] true com.google.android.material.internal.ParcelableSparseBooleanArray
+[2024-03-14 06:40:52.838] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.griver.bluetooth.altbeacon.beacon.service.StartRMData
+[2024-03-14 06:40:52.840] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.griver.bluetooth.altbeacon.beacon.service.StartRMData$1
+[2024-03-14 06:40:52.843] true com.alibaba.griver.bluetooth.altbeacon.beacon.service.StartRMData
+[2024-03-14 06:40:52.844] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.datepicker.CalendarConstraints
+[2024-03-14 06:40:52.845] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.datepicker.CalendarConstraints$1
+[2024-03-14 06:40:52.848] true com.google.android.material.datepicker.CalendarConstraints
+[2024-03-14 06:40:52.848] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.griver.image.photo.meta.PhotoMenu
+[2024-03-14 06:40:52.854] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.griver.image.photo.meta.PhotoMenu$1
+[2024-03-14 06:40:52.860] true com.alibaba.griver.image.photo.meta.PhotoMenu
+[2024-03-14 06:40:52.860] calling void writeToParcel(android.os.Parcel,int) in com.alipay.iap.android.common.syncintegration.api.IAPSyncCommand
+[2024-03-14 06:40:52.862] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alipay.iap.android.common.syncintegration.api.IAPSyncCommand$1
+[2024-03-14 06:40:52.864] true com.alipay.iap.android.common.syncintegration.api.IAPSyncCommand
+[2024-03-14 06:40:52.865] calling void writeToParcel(android.os.Parcel,int) in com.alipay.iap.android.f2fpay.widgets.data.PaymentCodeConfiguration
+[2024-03-14 06:40:52.866] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alipay.iap.android.f2fpay.widgets.data.PaymentCodeConfiguration$1
+[2024-03-14 06:40:52.868] true com.alipay.iap.android.f2fpay.widgets.data.PaymentCodeConfiguration
+[2024-03-14 06:40:52.869] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.timepicker.TimeModel
+[2024-03-14 06:40:52.870] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.timepicker.TimeModel$1
+[2024-03-14 06:40:52.872] true com.google.android.material.timepicker.TimeModel
+[2024-03-14 06:40:52.873] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.internal.ParcelableSparseArray
+[2024-03-14 06:40:52.876] code wrong with com.google.android.material.internal.ParcelableSparseArray cannot find creator
+[2024-03-14 06:40:52.876] calling void writeToParcel(android.os.Parcel,int) in com.google.android.gms.common.internal.BinderWrapper
+[2024-03-14 06:40:52.877] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.gms.common.internal.zzh
+[2024-03-14 06:40:52.878] true com.google.android.gms.common.internal.BinderWrapper
+[2024-03-14 06:40:52.879] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.internal.ParcelableSparseIntArray
+[2024-03-14 06:40:52.881] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.internal.ParcelableSparseIntArray$1
+[2024-03-14 06:40:52.883] true com.google.android.material.internal.ParcelableSparseIntArray
+[2024-03-14 06:40:52.883] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.navigation.NavigationBarPresenter$SavedState
+[2024-03-14 06:40:52.884] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.navigation.NavigationBarPresenter$SavedState$1
+[2024-03-14 06:40:52.886] true com.google.android.material.navigation.NavigationBarPresenter$SavedState
+[2024-03-14 06:40:52.886] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.datepicker.Month
+[2024-03-14 06:40:52.888] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.datepicker.Month$1
+[2024-03-14 06:40:52.889] true com.google.android.material.datepicker.Month
+[2024-03-14 06:40:52.890] calling void writeToParcel(android.os.Parcel,int) in com.alipay.mobile.beehive.poiselect.api.PoiSelectParams
+[2024-03-14 06:40:52.892] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alipay.mobile.beehive.poiselect.api.PoiSelectParams$1
+[2024-03-14 06:40:52.897] true com.alipay.mobile.beehive.poiselect.api.PoiSelectParams
+[2024-03-14 06:40:52.899] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.RecipientViewModel
+[2024-03-14 06:40:52.902] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.model.RecipientViewModel$2
+[2024-03-14 06:40:52.904] false id.dana.sendmoney.model.RecipientViewModel {Int, Value} vs {String, String, String, String, String, String, String, String, String, String, Long, String, Int, Int, Value, Int}
+[2024-03-14 06:40:52.904] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.kernel.common.io.ByteArrayParcelable
+[2024-03-14 06:40:52.907] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.kernel.common.io.ByteArrayParcelable$1
+[2024-03-14 06:40:52.909] true com.alibaba.ariver.kernel.common.io.ByteArrayParcelable
+[2024-03-14 06:40:52.909] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.CouponPayMethodInfoModel
+[2024-03-14 06:40:52.912] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.model.CouponPayMethodInfoModel$1
+[2024-03-14 06:40:52.915] true id.dana.sendmoney.model.CouponPayMethodInfoModel
+[2024-03-14 06:40:52.915] calling void writeToParcel(android.os.Parcel,int) in id.dana.statement.model.StatementDetailModel
+[2024-03-14 06:40:52.917] code wrong with id.dana.statement.model.StatementDetailModel cannot find creator
+[2024-03-14 06:40:52.917] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.RecentBankModel
+[2024-03-14 06:40:52.919] code wrong with id.dana.sendmoney.model.RecentBankModel cannot find creator
+[2024-03-14 06:40:52.919] calling void writeToParcel(android.os.Parcel,int) in id.dana.social.model.OwnReactionModel
+[2024-03-14 06:40:52.920] code wrong with id.dana.social.model.OwnReactionModel cannot find creator
+[2024-03-14 06:40:52.920] calling void writeToParcel(android.os.Parcel,int) in id.dana.statement.model.UserStatementModel
+[2024-03-14 06:40:52.923] code wrong with id.dana.statement.model.UserStatementModel cannot find creator
+[2024-03-14 06:40:52.924] calling void writeToParcel(android.os.Parcel,int) in net.sqlcipher.CursorWindow
+[2024-03-14 06:40:52.925] calling java.lang.Object createFromParcel(android.os.Parcel) in net.sqlcipher.CursorWindow$1
+[2024-03-14 06:40:52.928] true net.sqlcipher.CursorWindow
+[2024-03-14 06:40:52.928] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.RecipientModel
+[2024-03-14 06:40:52.932] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.model.RecipientModel$1
+[2024-03-14 06:40:52.937] true id.dana.sendmoney.model.RecipientModel
+[2024-03-14 06:40:52.938] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.ui.groupsend.groupdetail.model.GroupDetailModel
+[2024-03-14 06:40:52.940] code wrong with id.dana.sendmoney.ui.groupsend.groupdetail.model.GroupDetailModel cannot find creator
+[2024-03-14 06:40:52.940] calling void writeToParcel(android.os.Parcel,int) in id.dana.splitbill.model.SplitBillHistoryModel
+[2024-03-14 06:40:52.941] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.splitbill.model.SplitBillHistoryModel$1
+[2024-03-14 06:40:52.944] true id.dana.splitbill.model.SplitBillHistoryModel
+[2024-03-14 06:40:52.944] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.QrTransferModel
+[2024-03-14 06:40:52.946] code wrong with id.dana.sendmoney.model.QrTransferModel cannot find creator
+[2024-03-14 06:40:52.946] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.PayMethodRiskModel
+[2024-03-14 06:40:52.947] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.model.PayMethodRiskModel$1
+[2024-03-14 06:40:52.949] true id.dana.sendmoney.model.PayMethodRiskModel
+[2024-03-14 06:40:52.949] calling void writeToParcel(android.os.Parcel,int) in id.dana.wallet_v3.model.AssetCategoryModel
+[2024-03-14 06:40:52.950] code wrong with id.dana.wallet_v3.model.AssetCategoryModel cannot find creator
+[2024-03-14 06:40:52.952] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.PackageDownloadRequest
+[2024-03-14 06:40:52.954] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.PackageDownloadRequest$1
+[2024-03-14 06:40:52.958] true com.alibaba.ariver.resource.api.PackageDownloadRequest
+[2024-03-14 06:40:52.958] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.ShareQRSplitBillModel
+[2024-03-14 06:40:52.960] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.model.ShareQRSplitBillModel$1
+[2024-03-14 06:40:52.963] true id.dana.sendmoney.model.ShareQRSplitBillModel
+[2024-03-14 06:40:52.963] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney_v2.x2l.model.SocialLinkModel
+[2024-03-14 06:40:52.965] code wrong with id.dana.sendmoney_v2.x2l.model.SocialLinkModel cannot find creator
+[2024-03-14 06:40:52.966] calling void writeToParcel(android.os.Parcel,int) in id.dana.wallet.pocket.model.PocketAssetTimerConfigModel
+[2024-03-14 06:40:52.967] code wrong with id.dana.wallet.pocket.model.PocketAssetTimerConfigModel cannot find creator
+[2024-03-14 06:40:52.967] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.CardHolderModel
+[2024-03-14 06:40:52.968] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.model.CardHolderModel$1
+[2024-03-14 06:40:52.969] true id.dana.sendmoney.model.CardHolderModel
+[2024-03-14 06:40:52.969] calling void writeToParcel(android.os.Parcel,int) in id.dana.statement.model.StatementViewModel
+[2024-03-14 06:40:52.971] code wrong with id.dana.statement.model.StatementViewModel cannot find creator
+[2024-03-14 06:40:52.971] calling void writeToParcel(android.os.Parcel,int) in id.dana.splitbill.model.SplitBillPayerModel
+[2024-03-14 06:40:52.973] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.splitbill.model.SplitBillPayerModel$1
+[2024-03-14 06:40:52.976] true id.dana.splitbill.model.SplitBillPayerModel
+[2024-03-14 06:40:52.976] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.ExternalWithdrawChannelModel
+[2024-03-14 06:40:52.979] code wrong with id.dana.sendmoney.model.ExternalWithdrawChannelModel cannot find creator
+[2024-03-14 06:40:52.979] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.contact.provider.ContactModel
+[2024-03-14 06:40:52.981] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.contact.provider.ContactModel$2
+[2024-03-14 06:40:52.982] true id.dana.sendmoney.contact.provider.ContactModel
+[2024-03-14 06:40:52.983] code wrong with id.dana.utils.StringWrapper cannot find writeToParcel
+[2024-03-14 06:40:52.984] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.VoucherModel
+[2024-03-14 06:40:52.986] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.model.VoucherModel$1
+[2024-03-14 06:40:52.989] true id.dana.sendmoney.model.VoucherModel
+[2024-03-14 06:40:52.989] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.WithdrawChannelModel
+[2024-03-14 06:40:52.991] code wrong with id.dana.sendmoney.model.WithdrawChannelModel cannot find creator
+[2024-03-14 06:40:52.991] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.kernel.api.remote.RemoteCallResult
+[2024-03-14 06:40:52.992] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.kernel.api.remote.RemoteCallResult$1
+[2024-03-14 06:40:52.994] true com.alibaba.ariver.kernel.api.remote.RemoteCallResult
+[2024-03-14 06:40:52.994] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.ConfirmationModel
+[2024-03-14 06:40:53.009] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.model.ConfirmationModel$1
+[2024-03-14 06:40:53.022] true id.dana.sendmoney.model.ConfirmationModel
+[2024-03-14 06:40:53.023] calling void writeToParcel(android.os.Parcel,int) in id.dana.social.v2.model.FeedDeeplinkActivityDetailModel
+[2024-03-14 06:40:53.032] code wrong with id.dana.social.v2.model.FeedDeeplinkActivityDetailModel cannot find creator
+[2024-03-14 06:40:53.032] calling void writeToParcel(android.os.Parcel,int) in id.dana.splitbill.model.PayerModel
+[2024-03-14 06:40:53.034] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.splitbill.model.PayerModel$1
+[2024-03-14 06:40:53.036] true id.dana.splitbill.model.PayerModel
+[2024-03-14 06:40:53.037] code wrong with id.dana.wallet_v3.model.WalletV3CardModel cannot find writeToParcel
+[2024-03-14 06:40:53.037] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.prepare.PrepareException
+[2024-03-14 06:40:53.038] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.prepare.PrepareException$1
+[2024-03-14 06:40:53.039] true com.alibaba.ariver.resource.api.prepare.PrepareException
+[2024-03-14 06:40:53.039] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.WithdrawOTCModel
+[2024-03-14 06:40:53.040] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.model.WithdrawOTCModel$1
+[2024-03-14 06:40:53.042] true id.dana.sendmoney.model.WithdrawOTCModel
+[2024-03-14 06:40:53.042] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.ShareActivityModel
+[2024-03-14 06:40:53.044] code wrong with id.dana.sendmoney.model.ShareActivityModel cannot find creator
+[2024-03-14 06:40:53.044] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.models.DynamicPluginInfo
+[2024-03-14 06:40:53.045] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.models.DynamicPluginInfo$1
+[2024-03-14 06:40:53.047] true com.alibaba.ariver.resource.api.models.DynamicPluginInfo
+[2024-03-14 06:40:53.047] calling void writeToParcel(android.os.Parcel,int) in id.dana.statement.model.StatementSummaryModel
+[2024-03-14 06:40:53.048] code wrong with id.dana.statement.model.StatementSummaryModel cannot find creator
+[2024-03-14 06:40:53.048] calling void writeToParcel(android.os.Parcel,int) in id.dana.usereducation.model.ContentOnBoardingModel
+[2024-03-14 06:40:53.049] code wrong with id.dana.usereducation.model.ContentOnBoardingModel cannot find creator
+[2024-03-14 06:40:53.050] calling void writeToParcel(android.os.Parcel,int) in id.dana.wallet.pocket.model.ShareableRpcInfoModel
+[2024-03-14 06:40:53.051] code wrong with id.dana.wallet.pocket.model.ShareableRpcInfoModel cannot find creator
+[2024-03-14 06:40:53.052] calling void writeToParcel(android.os.Parcel,int) in id.dana.usereducation.model.OnBoardingModel
+[2024-03-14 06:40:53.054] code wrong with id.dana.usereducation.model.OnBoardingModel cannot find creator
+[2024-03-14 06:40:53.054] calling void writeToParcel(android.os.Parcel,int) in id.dana.splitbill.model.SplitBillModel
+[2024-03-14 06:40:53.056] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.splitbill.model.SplitBillModel$1
+[2024-03-14 06:40:53.059] true id.dana.splitbill.model.SplitBillModel
+[2024-03-14 06:40:53.059] calling void writeToParcel(android.os.Parcel,int) in id.dana.webview.WebViewActivity$Content
+[2024-03-14 06:40:53.060] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.webview.WebViewActivity$Content$1
+[2024-03-14 06:40:53.061] true id.dana.webview.WebViewActivity$Content
+[2024-03-14 06:40:53.061] calling void writeToParcel(android.os.Parcel,int) in id.dana.social.model.ReactionCountModel
+[2024-03-14 06:40:53.062] code wrong with id.dana.social.model.ReactionCountModel cannot find creator
+[2024-03-14 06:40:53.062] calling void writeToParcel(android.os.Parcel,int) in id.dana.social.model.FeedModel
+[2024-03-14 06:40:53.064] code wrong with id.dana.social.model.FeedModel cannot find creator
+[2024-03-14 06:40:53.065] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.PayOptionDTO
+[2024-03-14 06:40:53.066] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.model.PayOptionDTO$1
+[2024-03-14 06:40:53.068] true id.dana.sendmoney.model.PayOptionDTO
+[2024-03-14 06:40:53.069] calling void writeToParcel(android.os.Parcel,int) in id.dana.model.QrisCrossBorderContentModel
+[2024-03-14 06:40:53.070] code wrong with id.dana.model.QrisCrossBorderContentModel cannot find creator
+[2024-03-14 06:40:53.071] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.model.PromoLimitInfoModel
+[2024-03-14 06:40:53.073] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.nearbyme.model.PromoLimitInfoModel$1
+[2024-03-14 06:40:53.074] true id.dana.nearbyme.model.PromoLimitInfoModel
+[2024-03-14 06:40:53.074] calling void writeToParcel(android.os.Parcel,int) in id.dana.promoquest.model.MissionModel
+[2024-03-14 06:40:53.081] code wrong with id.dana.promoquest.model.MissionModel cannot find creator
+[2024-03-14 06:40:53.082] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.model.MerchantSubcategoryModel
+[2024-03-14 06:40:53.083] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.nearbyme.model.MerchantSubcategoryModel$1
+[2024-03-14 06:40:53.084] true id.dana.nearbyme.model.MerchantSubcategoryModel
+[2024-03-14 06:40:53.084] calling void writeToParcel(android.os.Parcel,int) in id.dana.pay.PayCardViewItem
+[2024-03-14 06:40:53.086] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.pay.PayCardViewItem$1
+[2024-03-14 06:40:53.087] true id.dana.pay.PayCardViewItem
+[2024-03-14 06:40:53.087] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.model.ShopOpenHourModel
+[2024-03-14 06:40:53.088] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.nearbyme.model.ShopOpenHourModel$CREATOR
+[2024-03-14 06:40:53.089] true id.dana.nearbyme.model.ShopOpenHourModel
+[2024-03-14 06:40:53.090] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.model.rpc.UserInfo
+[2024-03-14 06:40:53.094] code wrong with id.dana.domain.model.rpc.UserInfo cannot find creator
+[2024-03-14 06:40:53.094] calling void writeToParcel(android.os.Parcel,int) in id.dana.onboarding.citcall.CitCallVerifyKey
+[2024-03-14 06:40:53.095] code wrong with id.dana.onboarding.citcall.CitCallVerifyKey cannot find creator
+[2024-03-14 06:40:53.095] calling void writeToParcel(android.os.Parcel,int) in id.dana.onboarding.confirmpin.ConfirmPinKey
+[2024-03-14 06:40:53.096] code wrong with id.dana.onboarding.confirmpin.ConfirmPinKey cannot find creator
+[2024-03-14 06:40:53.097] calling void writeToParcel(android.os.Parcel,int) in id.dana.feeds.ui.model.FeedCommentModel
+[2024-03-14 06:40:53.099] code wrong with id.dana.feeds.ui.model.FeedCommentModel cannot find creator
+[2024-03-14 06:40:53.099] calling void writeToParcel(android.os.Parcel,int) in id.dana.familyaccount.model.MemberInfoModel
+[2024-03-14 06:40:53.100] code wrong with id.dana.familyaccount.model.MemberInfoModel cannot find creator
+[2024-03-14 06:40:53.100] calling void writeToParcel(android.os.Parcel,int) in id.dana.onboarding.verify.VerifyNumberKey
+[2024-03-14 06:40:53.102] code wrong with id.dana.onboarding.verify.VerifyNumberKey cannot find creator
+[2024-03-14 06:40:53.102] calling void writeToParcel(android.os.Parcel,int) in id.dana.explore.data.sku.repository.source.network.response.InquiryStatus
+[2024-03-14 06:40:53.103] code wrong with id.dana.explore.data.sku.repository.source.network.response.InquiryStatus cannot find creator
+[2024-03-14 06:40:53.103] calling void writeToParcel(android.os.Parcel,int) in id.dana.home.model.EddAnswerInfoDTOModel
+[2024-03-14 06:40:53.104] code wrong with id.dana.home.model.EddAnswerInfoDTOModel cannot find creator
+[2024-03-14 06:40:53.105] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.nearbyme.model.Tag
+[2024-03-14 06:40:53.106] code wrong with id.dana.domain.nearbyme.model.Tag cannot find creator
+[2024-03-14 06:40:53.107] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.merchantreview.model.MerchantReviewTagModel
+[2024-03-14 06:40:53.108] code wrong with id.dana.nearbyme.merchantreview.model.MerchantReviewTagModel cannot find creator
+[2024-03-14 06:40:53.108] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.merchantdetail.merchantphoto.MerchantPhotoViewerModel
+[2024-03-14 06:40:53.111] code wrong with id.dana.nearbyme.merchantdetail.merchantphoto.MerchantPhotoViewerModel cannot find creator
+[2024-03-14 06:40:53.111] calling void writeToParcel(android.os.Parcel,int) in id.dana.model.PayMethodModel
+[2024-03-14 06:40:53.113] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.model.PayMethodModel$1
+[2024-03-14 06:40:53.116] false id.dana.model.PayMethodModel {Parcelable, String, String, Value, String, String, String, String, String, Parcelable, Parcelable, Parcelable, String, String, String, Long, Long, String} vs {Parcelable, String, String, Value, String, String, String, String, String, Parcelable, Parcelable, Parcelable, String, String, Long, Long, String}
+[2024-03-14 06:40:53.116] calling void writeToParcel(android.os.Parcel,int) in id.dana.promoquest.model.QuestModel
+[2024-03-14 06:40:53.118] code wrong with id.dana.promoquest.model.QuestModel cannot find creator
+[2024-03-14 06:40:53.118] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.merchantdetail.model.MoneyViewModel
+[2024-03-14 06:40:53.119] code wrong with id.dana.nearbyme.merchantdetail.model.MoneyViewModel cannot find creator
+[2024-03-14 06:40:53.119] calling void writeToParcel(android.os.Parcel,int) in id.dana.expresspurchase.model.ExpressPurchaseModel$Paylater$BenefitContent
+[2024-03-14 06:40:53.120] code wrong with id.dana.expresspurchase.model.ExpressPurchaseModel$Paylater$BenefitContent cannot find creator
+[2024-03-14 06:40:53.120] calling void writeToParcel(android.os.Parcel,int) in id.dana.kyb.model.KybQrisModel
+[2024-03-14 06:40:53.121] code wrong with id.dana.kyb.model.KybQrisModel cannot find creator
+[2024-03-14 06:40:53.121] calling void writeToParcel(android.os.Parcel,int) in id.dana.referral.model.ReferralCampaignInfo
+[2024-03-14 06:40:53.122] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.referral.model.ReferralCampaignInfo$1
+[2024-03-14 06:40:53.124] true id.dana.referral.model.ReferralCampaignInfo
+[2024-03-14 06:40:53.124] calling void writeToParcel(android.os.Parcel,int) in id.dana.onboarding.referral.VerifyReferralCodeErrorKey
+[2024-03-14 06:40:53.125] code wrong with id.dana.onboarding.referral.VerifyReferralCodeErrorKey cannot find creator
+[2024-03-14 06:40:53.125] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.paylater.model.LoanWhitelist
+[2024-03-14 06:40:53.128] code wrong with id.dana.domain.paylater.model.LoanWhitelist cannot find creator
+[2024-03-14 06:40:53.128] calling void writeToParcel(android.os.Parcel,int) in id.dana.familyaccount.view.invite.FamilyTncConsentActivity$StartParams
+[2024-03-14 06:40:53.129] code wrong with id.dana.familyaccount.view.invite.FamilyTncConsentActivity$StartParams cannot find creator
+[2024-03-14 06:40:53.130] calling void writeToParcel(android.os.Parcel,int) in id.dana.savings.model.SavingModel
+[2024-03-14 06:40:53.134] code wrong with id.dana.savings.model.SavingModel cannot find creator
+[2024-03-14 06:40:53.134] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.model.rpc.response.EvUrlStatus
+[2024-03-14 06:40:53.135] code wrong with id.dana.domain.model.rpc.response.EvUrlStatus cannot find creator
+[2024-03-14 06:40:53.136] calling void writeToParcel(android.os.Parcel,int) in id.dana.feeds.ui.model.ActivityReactionsUserModel
+[2024-03-14 06:40:53.136] code wrong with id.dana.feeds.ui.model.ActivityReactionsUserModel cannot find creator
+[2024-03-14 06:40:53.136] calling void writeToParcel(android.os.Parcel,int) in id.dana.expresspurchase.model.ExpressPurchaseModel$PaymentResultContent
+[2024-03-14 06:40:53.137] code wrong with id.dana.expresspurchase.model.ExpressPurchaseModel$PaymentResultContent cannot find creator
+[2024-03-14 06:40:53.138] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.merchantdetail.model.MerchantImageModel
+[2024-03-14 06:40:53.138] code wrong with id.dana.nearbyme.merchantdetail.model.MerchantImageModel cannot find creator
+[2024-03-14 06:40:53.138] calling void writeToParcel(android.os.Parcel,int) in id.dana.home.model.EddQuestionInfoDTOModel
+[2024-03-14 06:40:53.140] code wrong with id.dana.home.model.EddQuestionInfoDTOModel cannot find creator
+[2024-03-14 06:40:53.140] calling void writeToParcel(android.os.Parcel,int) in id.dana.referral.model.MyReferralConsult
+[2024-03-14 06:40:53.141] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.referral.model.MyReferralConsult$1
+[2024-03-14 06:40:53.142] true id.dana.referral.model.MyReferralConsult
+[2024-03-14 06:40:53.143] calling void writeToParcel(android.os.Parcel,int) in id.dana.miniprogram.tnc.MissingRequiredUserInfoDialogActivity$StartParams
+[2024-03-14 06:40:53.144] code wrong with id.dana.miniprogram.tnc.MissingRequiredUserInfoDialogActivity$StartParams cannot find creator
+[2024-03-14 06:40:53.144] calling void writeToParcel(android.os.Parcel,int) in id.dana.pay.PayCardInfo
+[2024-03-14 06:40:53.146] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.pay.PayCardInfo$1
+[2024-03-14 06:40:53.148] true id.dana.pay.PayCardInfo
+[2024-03-14 06:40:53.149] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.investment.model.MultiCurrencyMoneyView
+[2024-03-14 06:40:53.150] code wrong with id.dana.domain.investment.model.MultiCurrencyMoneyView cannot find creator
+[2024-03-14 06:40:53.151] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.model.ContactAddressModel
+[2024-03-14 06:40:53.152] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.nearbyme.model.ContactAddressModel$1
+[2024-03-14 06:40:53.154] true id.dana.nearbyme.model.ContactAddressModel
+[2024-03-14 06:40:53.154] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.bank.model.UserBank
+[2024-03-14 06:40:53.156] code wrong with id.dana.domain.bank.model.UserBank cannot find creator
+[2024-03-14 06:40:53.156] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.merchantdetail.model.MerchantReviewModel
+[2024-03-14 06:40:53.160] code wrong with id.dana.nearbyme.merchantdetail.model.MerchantReviewModel cannot find creator
+[2024-03-14 06:40:53.160] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.familyaccount.model.AvailableServicesConfig
+[2024-03-14 06:40:53.162] code wrong with id.dana.domain.familyaccount.model.AvailableServicesConfig cannot find creator
+[2024-03-14 06:40:53.162] calling void writeToParcel(android.os.Parcel,int) in id.dana.feeds.ui.model.RelationshipItemModel
+[2024-03-14 06:40:53.164] code wrong with id.dana.feeds.ui.model.RelationshipItemModel cannot find creator
+[2024-03-14 06:40:53.164] calling void writeToParcel(android.os.Parcel,int) in id.dana.requestmoney.model.UserBankModel
+[2024-03-14 06:40:53.165] code wrong with id.dana.requestmoney.model.UserBankModel cannot find creator
+[2024-03-14 06:40:53.165] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.merchantreview.model.MerchantConsultReviewModel
+[2024-03-14 06:40:53.167] code wrong with id.dana.nearbyme.merchantreview.model.MerchantConsultReviewModel cannot find creator
+[2024-03-14 06:40:53.168] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.merchantdetail.mediaviewer.MediaViewerModel
+[2024-03-14 06:40:53.168] code wrong with id.dana.nearbyme.merchantdetail.mediaviewer.MediaViewerModel cannot find creator
+[2024-03-14 06:40:53.168] calling void writeToParcel(android.os.Parcel,int) in id.dana.globalsearch.model.PaySearchInfoModel
+[2024-03-14 06:40:53.173] code wrong with id.dana.globalsearch.model.PaySearchInfoModel cannot find creator
+[2024-03-14 06:40:53.173] calling void writeToParcel(android.os.Parcel,int) in id.dana.onboarding.citcall.CitCallIntroductionKey
+[2024-03-14 06:40:53.174] code wrong with id.dana.onboarding.citcall.CitCallIntroductionKey cannot find creator
+[2024-03-14 06:40:53.175] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.paylater.model.PaylaterCicilMethodConfig
+[2024-03-14 06:40:53.176] code wrong with id.dana.domain.paylater.model.PaylaterCicilMethodConfig cannot find creator
+[2024-03-14 06:40:53.176] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.familyaccount.model.MaxMemberLimitConfig
+[2024-03-14 06:40:53.177] code wrong with id.dana.domain.familyaccount.model.MaxMemberLimitConfig cannot find creator
+[2024-03-14 06:40:53.178] calling void writeToParcel(android.os.Parcel,int) in id.dana.model.SendMoneyHomeMenuModel
+[2024-03-14 06:40:53.180] code wrong with id.dana.model.SendMoneyHomeMenuModel cannot find creator
+[2024-03-14 06:40:53.180] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.paylater.model.LoanInfo
+[2024-03-14 06:40:53.181] code wrong with id.dana.domain.paylater.model.LoanInfo cannot find creator
+[2024-03-14 06:40:53.181] calling void writeToParcel(android.os.Parcel,int) in id.dana.familyaccount.model.FamilyMemberInfoModel
+[2024-03-14 06:40:53.183] code wrong with id.dana.familyaccount.model.FamilyMemberInfoModel cannot find creator
+[2024-03-14 06:40:53.183] calling void writeToParcel(android.os.Parcel,int) in id.dana.onboarding.createpin.CreatePinKey
+[2024-03-14 06:40:53.184] code wrong with id.dana.onboarding.createpin.CreatePinKey cannot find creator
+[2024-03-14 06:40:53.184] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.homeshopping.model.HomeShoppingModel
+[2024-03-14 06:40:53.186] code wrong with id.dana.nearbyme.homeshopping.model.HomeShoppingModel cannot find creator
+[2024-03-14 06:40:53.186] calling void writeToParcel(android.os.Parcel,int) in id.dana.feeds.ui.model.FriendModel
+[2024-03-14 06:40:53.188] code wrong with id.dana.feeds.ui.model.FriendModel cannot find creator
+[2024-03-14 06:40:53.188] calling void writeToParcel(android.os.Parcel,int) in id.dana.savings.model.SavingCategoryModel
+[2024-03-14 06:40:53.189] code wrong with id.dana.savings.model.SavingCategoryModel cannot find creator
+[2024-03-14 06:40:53.189] calling void writeToParcel(android.os.Parcel,int) in id.dana.richview.boundcard.model.BoundCard
+[2024-03-14 06:40:53.191] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.richview.boundcard.model.BoundCard$1
+[2024-03-14 06:40:53.194] true id.dana.richview.boundcard.model.BoundCard
+[2024-03-14 06:40:53.194] calling void writeToParcel(android.os.Parcel,int) in id.dana.lazada.model.MiniAppParamsModel
+[2024-03-14 06:40:53.196] code wrong with id.dana.lazada.model.MiniAppParamsModel cannot find creator
+[2024-03-14 06:40:53.196] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.featureconfig.model.DealsConfig
+[2024-03-14 06:40:53.197] code wrong with id.dana.domain.featureconfig.model.DealsConfig cannot find creator
+[2024-03-14 06:40:53.197] calling void writeToParcel(android.os.Parcel,int) in id.dana.expresspurchase.model.VoucherExpressInfoModel
+[2024-03-14 06:40:53.200] code wrong with id.dana.expresspurchase.model.VoucherExpressInfoModel cannot find creator
+[2024-03-14 06:40:53.200] calling void writeToParcel(android.os.Parcel,int) in id.dana.expresspurchase.model.ExpressPurchaseModel$OfferContent$BenefitModel
+[2024-03-14 06:40:53.201] code wrong with id.dana.expresspurchase.model.ExpressPurchaseModel$OfferContent$BenefitModel cannot find creator
+[2024-03-14 06:40:53.201] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.model.rpc.response.LoginAuthenticationOptionResponse
+[2024-03-14 06:40:53.202] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.domain.model.rpc.response.LoginAuthenticationOptionResponse$1
+[2024-03-14 06:40:53.203] true id.dana.domain.model.rpc.response.LoginAuthenticationOptionResponse
+[2024-03-14 06:40:53.204] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.model.ShopModel
+[2024-03-14 06:40:53.207] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.nearbyme.model.ShopModel$1
+[2024-03-14 06:40:53.211] true id.dana.nearbyme.model.ShopModel
+[2024-03-14 06:40:53.212] calling void writeToParcel(android.os.Parcel,int) in id.dana.familyaccount.model.DashboardModel
+[2024-03-14 06:40:53.214] code wrong with id.dana.familyaccount.model.DashboardModel cannot find creator
+[2024-03-14 06:40:53.214] calling void writeToParcel(android.os.Parcel,int) in id.dana.onboarding.referral.VerifyReferralCodeKey
+[2024-03-14 06:40:53.215] code wrong with id.dana.onboarding.referral.VerifyReferralCodeKey cannot find creator
+[2024-03-14 06:40:53.215] calling void writeToParcel(android.os.Parcel,int) in id.dana.feeds.ui.model.ActivityWidgetModel
+[2024-03-14 06:40:53.218] code wrong with id.dana.feeds.ui.model.ActivityWidgetModel cannot find creator
+[2024-03-14 06:40:53.218] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.model.rpc.response.LoginResponse
+[2024-03-14 06:40:53.222] code wrong with id.dana.domain.model.rpc.response.LoginResponse cannot find creator
+[2024-03-14 06:40:53.222] calling void writeToParcel(android.os.Parcel,int) in id.dana.familyaccount.view.dashboard.OrganizerDashboardActivity$StartParams
+[2024-03-14 06:40:53.223] code wrong with id.dana.familyaccount.view.dashboard.OrganizerDashboardActivity$StartParams cannot find creator
+[2024-03-14 06:40:53.223] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.nearbyme.model.MerchantImage
+[2024-03-14 06:40:53.224] code wrong with id.dana.domain.nearbyme.model.MerchantImage cannot find creator
+[2024-03-14 06:40:53.224] calling void writeToParcel(android.os.Parcel,int) in id.dana.savings.model.TopUpModel
+[2024-03-14 06:40:53.227] code wrong with id.dana.savings.model.TopUpModel cannot find creator
+[2024-03-14 06:40:53.228] calling void writeToParcel(android.os.Parcel,int) in id.dana.savings.model.SavingDetailModel
+[2024-03-14 06:40:53.232] code wrong with id.dana.savings.model.SavingDetailModel cannot find creator
+[2024-03-14 06:40:53.232] calling void writeToParcel(android.os.Parcel,int) in id.dana.expresspurchase.model.PriceModel
+[2024-03-14 06:40:53.233] code wrong with id.dana.expresspurchase.model.PriceModel cannot find creator
+[2024-03-14 06:40:53.233] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.paylater.model.PayLaterLoanWhitelist
+[2024-03-14 06:40:53.234] code wrong with id.dana.domain.paylater.model.PayLaterLoanWhitelist cannot find creator
+[2024-03-14 06:40:53.234] calling void writeToParcel(android.os.Parcel,int) in id.dana.familyaccount.model.LimitInfoModel
+[2024-03-14 06:40:53.235] code wrong with id.dana.familyaccount.model.LimitInfoModel cannot find creator
+[2024-03-14 06:40:53.235] calling void writeToParcel(android.os.Parcel,int) in id.dana.home.model.EddInfoModel
+[2024-03-14 06:40:53.236] code wrong with id.dana.home.model.EddInfoModel cannot find creator
+[2024-03-14 06:40:53.237] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.AssetCardModel
+[2024-03-14 06:40:53.247] code wrong with id.dana.cashier.model.AssetCardModel cannot find creator
+[2024-03-14 06:40:53.247] calling void writeToParcel(android.os.Parcel,int) in com.alipay.iap.android.f2fpay.client.pay.F2FPayResult
+[2024-03-14 06:40:53.248] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alipay.iap.android.f2fpay.client.pay.F2FPayResult$1
+[2024-03-14 06:40:53.250] true com.alipay.iap.android.f2fpay.client.pay.F2FPayResult
+[2024-03-14 06:40:53.250] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.RepaymentInfoModel
+[2024-03-14 06:40:53.252] code wrong with id.dana.cashier.model.RepaymentInfoModel cannot find creator
+[2024-03-14 06:40:53.252] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.PayResultModel
+[2024-03-14 06:40:53.265] code wrong with id.dana.cashier.model.PayResultModel cannot find creator
+[2024-03-14 06:40:53.266] calling void writeToParcel(android.os.Parcel,int) in com.mixpanel.android.mpmetrics.UpdateDisplayState
+[2024-03-14 06:40:53.267] calling java.lang.Object createFromParcel(android.os.Parcel) in com.mixpanel.android.mpmetrics.UpdateDisplayState$1
+[2024-03-14 06:40:53.268] false com.mixpanel.android.mpmetrics.UpdateDisplayState {} vs {Bundle}
+[2024-03-14 06:40:53.268] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.CashierMerchantModel
+[2024-03-14 06:40:53.271] code wrong with id.dana.cashier.model.CashierMerchantModel cannot find creator
+[2024-03-14 06:40:53.272] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.ProcessingMilestoneModel
+[2024-03-14 06:40:53.273] code wrong with id.dana.cashier.model.ProcessingMilestoneModel cannot find creator
+[2024-03-14 06:40:53.273] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.badge.BadgeDrawable$SavedState
+[2024-03-14 06:40:53.275] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.badge.BadgeDrawable$SavedState$1
+[2024-03-14 06:40:53.277] true com.google.android.material.badge.BadgeDrawable$SavedState
+[2024-03-14 06:40:53.277] code wrong with com.mixpanel.android.mpmetrics.UpdateDisplayState$DisplayState cannot find writeToParcel
+[2024-03-14 06:40:53.277] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.DailyLimitAmountConfModel
+[2024-03-14 06:40:53.278] code wrong with id.dana.cashier.model.DailyLimitAmountConfModel cannot find creator
+[2024-03-14 06:40:53.278] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.CashierOrderGoodModel
+[2024-03-14 06:40:53.285] code wrong with id.dana.cashier.model.CashierOrderGoodModel cannot find creator
+[2024-03-14 06:40:53.286] calling void writeToParcel(android.os.Parcel,int) in id.dana.cancelsurvey.model.BottomSheetCancelReasonResultModel
+[2024-03-14 06:40:53.286] code wrong with id.dana.cancelsurvey.model.BottomSheetCancelReasonResultModel cannot find creator
+[2024-03-14 06:40:53.287] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.CashierPayMethodModel$NewCardData
+[2024-03-14 06:40:53.288] code wrong with id.dana.cashier.model.CashierPayMethodModel$NewCardData cannot find creator
+[2024-03-14 06:40:53.288] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.ExtendCashierModel
+[2024-03-14 06:40:53.289] code wrong with id.dana.cashier.model.ExtendCashierModel cannot find creator
+[2024-03-14 06:40:53.289] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.QueryInstallmentModel
+[2024-03-14 06:40:53.295] code wrong with id.dana.cashier.model.QueryInstallmentModel cannot find creator
+[2024-03-14 06:40:53.295] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.CashierPayMethodModel
+[2024-03-14 06:40:53.296] code wrong with id.dana.cashier.model.CashierPayMethodModel cannot find creator
+[2024-03-14 06:40:53.296] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.TopUpConsultModel
+[2024-03-14 06:40:53.312] code wrong with id.dana.cashier.model.TopUpConsultModel cannot find creator
+[2024-03-14 06:40:53.313] calling void writeToParcel(android.os.Parcel,int) in id.dana.cancelsurvey.model.CancelReasonModel
+[2024-03-14 06:40:53.314] code wrong with id.dana.cancelsurvey.model.CancelReasonModel cannot find creator
+[2024-03-14 06:40:53.314] calling void writeToParcel(android.os.Parcel,int) in com.mixpanel.android.mpmetrics.InAppButton
+[2024-03-14 06:40:53.315] calling java.lang.Object createFromParcel(android.os.Parcel) in com.mixpanel.android.mpmetrics.InAppButton$1
+[2024-03-14 06:40:53.318] true com.mixpanel.android.mpmetrics.InAppButton
+[2024-03-14 06:40:53.318] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.OrderCreateExtendInfoModel
+[2024-03-14 06:40:53.318] code wrong with id.dana.cashier.model.OrderCreateExtendInfoModel cannot find creator
+[2024-03-14 06:40:53.319] calling void writeToParcel(android.os.Parcel,int) in id.dana.cancelsurvey.model.BottomSheetCancelReasonModel
+[2024-03-14 06:40:53.320] code wrong with id.dana.cancelsurvey.model.BottomSheetCancelReasonModel cannot find creator
+[2024-03-14 06:40:53.320] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.guide.bottomsheet.CashierGuideDialogFragment$Params
+[2024-03-14 06:40:53.322] code wrong with id.dana.cashier.guide.bottomsheet.CashierGuideDialogFragment$Params cannot find creator
+[2024-03-14 06:40:53.322] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.RepaymentPlanModel
+[2024-03-14 06:40:53.323] code wrong with id.dana.cashier.model.RepaymentPlanModel cannot find creator
+[2024-03-14 06:40:53.323] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.LoanCreditChannelInfoModel
+[2024-03-14 06:40:53.323] code wrong with id.dana.cashier.model.LoanCreditChannelInfoModel cannot find creator
+[2024-03-14 06:40:53.324] calling void writeToParcel(android.os.Parcel,int) in com.huawei.hms.api.ConnectionResult
+[2024-03-14 06:40:53.324] calling java.lang.Object createFromParcel(android.os.Parcel) in com.huawei.hms.api.ConnectionResult$a
+[2024-03-14 06:40:53.327] true com.huawei.hms.api.ConnectionResult
+[2024-03-14 06:40:53.327] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.VoucherCashierModel
+[2024-03-14 06:40:53.328] code wrong with id.dana.cashier.model.VoucherCashierModel cannot find creator
+[2024-03-14 06:40:53.328] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.TncUrlModel
+[2024-03-14 06:40:53.329] code wrong with id.dana.cashier.model.TncUrlModel cannot find creator
+[2024-03-14 06:40:53.329] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.PayMethodViewDtoModel
+[2024-03-14 06:40:53.333] code wrong with id.dana.cashier.model.PayMethodViewDtoModel cannot find creator
+[2024-03-14 06:40:53.333] calling void writeToParcel(android.os.Parcel,int) in com.mixpanel.android.mpmetrics.DisplayTrigger
+[2024-03-14 06:40:53.334] calling java.lang.Object createFromParcel(android.os.Parcel) in com.mixpanel.android.mpmetrics.DisplayTrigger$1
+[2024-03-14 06:40:53.336] true com.mixpanel.android.mpmetrics.DisplayTrigger
+[2024-03-14 06:40:53.336] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.AddOnChannelSupportInfo
+[2024-03-14 06:40:53.337] code wrong with id.dana.cashier.model.AddOnChannelSupportInfo cannot find creator
+[2024-03-14 06:40:53.337] calling void writeToParcel(android.os.Parcel,int) in com.mixpanel.android.mpmetrics.InAppNotification
+[2024-03-14 06:40:53.339] code wrong with com.mixpanel.android.mpmetrics.InAppNotification cannot find creator
+[2024-03-14 06:40:53.339] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.Risk3dsAdditionalDataModel
+[2024-03-14 06:40:53.340] code wrong with id.dana.cashier.model.Risk3dsAdditionalDataModel cannot find creator
+[2024-03-14 06:40:53.340] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.TopUpVerifyRequestModel
+[2024-03-14 06:40:53.342] code wrong with id.dana.cashier.model.TopUpVerifyRequestModel cannot find creator
+[2024-03-14 06:40:53.342] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.OneKlikPhonesModel
+[2024-03-14 06:40:53.343] code wrong with id.dana.cashier.model.OneKlikPhonesModel cannot find creator
+[2024-03-14 06:40:53.343] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.AttributeCashierPayModel
+[2024-03-14 06:40:53.360] code wrong with id.dana.cashier.model.AttributeCashierPayModel cannot find creator
+[2024-03-14 06:40:53.360] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.CouponCashierModel
+[2024-03-14 06:40:53.361] code wrong with id.dana.cashier.model.CouponCashierModel cannot find creator
+[2024-03-14 06:40:53.361] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.PaylaterBillDetailModel
+[2024-03-14 06:40:53.363] code wrong with id.dana.cashier.model.PaylaterBillDetailModel cannot find creator
+[2024-03-14 06:40:53.363] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.RemainingCardLimitAmountModel
+[2024-03-14 06:40:53.363] code wrong with id.dana.cashier.model.RemainingCardLimitAmountModel cannot find creator
+[2024-03-14 06:40:53.363] calling void writeToParcel(android.os.Parcel,int) in com.alipay.mobile.rome.longlinkservice.syncmodel.SyncMessage
+[2024-03-14 06:40:53.365] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alipay.mobile.rome.longlinkservice.syncmodel.SyncMessage$1
+[2024-03-14 06:40:53.367] true com.alipay.mobile.rome.longlinkservice.syncmodel.SyncMessage
+[2024-03-14 06:40:53.367] calling void writeToParcel(android.os.Parcel,int) in com.huawei.hms.core.aidl.DataBuffer
+[2024-03-14 06:40:53.368] calling java.lang.Object createFromParcel(android.os.Parcel) in com.huawei.hms.core.aidl.DataBuffer$a
+[2024-03-14 06:40:53.370] true com.huawei.hms.core.aidl.DataBuffer
+[2024-03-14 06:40:53.370] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.CashierKybOrderDetailModel
+[2024-03-14 06:40:53.371] code wrong with id.dana.cashier.model.CashierKybOrderDetailModel cannot find creator
+[2024-03-14 06:40:53.371] calling void writeToParcel(android.os.Parcel,int) in com.google.android.play.core.review.ReviewInfo
+[2024-03-14 06:40:53.372] code wrong with com.google.android.play.core.review.ReviewInfo cannot find clinit
+[2024-03-14 06:40:53.372] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.CashierPayChannelModel
+[2024-03-14 06:40:53.375] code wrong with id.dana.cashier.model.CashierPayChannelModel cannot find creator
+[2024-03-14 06:40:53.375] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.PaylaterOnboardingContentModel
+[2024-03-14 06:40:53.377] code wrong with id.dana.cashier.model.PaylaterOnboardingContentModel cannot find creator
+[2024-03-14 06:40:53.377] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.ConsultAgreementModel
+[2024-03-14 06:40:53.378] code wrong with id.dana.cashier.model.ConsultAgreementModel cannot find creator
+[2024-03-14 06:40:53.378] calling void writeToParcel(android.os.Parcel,int) in com.google.android.flexbox.FlexboxLayoutManager$SavedState
+[2024-03-14 06:40:53.379] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.flexbox.FlexboxLayoutManager$SavedState$1
+[2024-03-14 06:40:53.380] true com.google.android.flexbox.FlexboxLayoutManager$SavedState
+[2024-03-14 06:40:53.381] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.DanaCreditModel
+[2024-03-14 06:40:53.381] code wrong with id.dana.cashier.model.DanaCreditModel cannot find creator
+[2024-03-14 06:40:53.381] code wrong with id.dana.base.BaseScreen cannot find writeToParcel
+[2024-03-14 06:40:53.382] calling void writeToParcel(android.os.Parcel,int) in com.huawei.hms.support.api.client.Status
+[2024-03-14 06:40:53.384] calling java.lang.Object createFromParcel(android.os.Parcel) in com.huawei.hms.support.api.client.Status$a
+[2024-03-14 06:40:53.385] true com.huawei.hms.support.api.client.Status
+[2024-03-14 06:40:53.385] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.RiskParamsFactory
+[2024-03-14 06:40:53.395] code wrong with id.dana.cashier.RiskParamsFactory cannot find creator
+[2024-03-14 06:40:53.395] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.CashierCheckoutRequestModel
+[2024-03-14 06:40:53.398] code wrong with id.dana.cashier.model.CashierCheckoutRequestModel cannot find creator
+[2024-03-14 06:40:53.398] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.RiskVerificationMethodModel
+[2024-03-14 06:40:53.398] code wrong with id.dana.cashier.model.RiskVerificationMethodModel cannot find creator
+[2024-03-14 06:40:53.398] calling void writeToParcel(android.os.Parcel,int) in com.alipay.iap.android.common.syncintegration.api.IAPSyncMessage
+[2024-03-14 06:40:53.399] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alipay.iap.android.common.syncintegration.api.IAPSyncMessage$1
+[2024-03-14 06:40:53.401] true com.alipay.iap.android.common.syncintegration.api.IAPSyncMessage
+[2024-03-14 06:40:53.401] calling void writeToParcel(android.os.Parcel,int) in com.alipay.iap.android.f2fpay.client.pay.F2fPayOrderInfo
+[2024-03-14 06:40:53.403] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alipay.iap.android.f2fpay.client.pay.F2fPayOrderInfo$1
+[2024-03-14 06:40:53.406] true com.alipay.iap.android.f2fpay.client.pay.F2fPayOrderInfo
+[2024-03-14 06:40:53.406] calling void writeToParcel(android.os.Parcel,int) in com.google.android.gms.cloudmessaging.zza
+[2024-03-14 06:40:53.407] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.gms.cloudmessaging.zzc
+[2024-03-14 06:40:53.408] true com.google.android.gms.cloudmessaging.zza
+[2024-03-14 06:40:53.408] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.model.CashierPayModel
+[2024-03-14 06:40:53.416] code wrong with id.dana.cashier.model.CashierPayModel cannot find creator
+[2024-03-14 06:40:53.416] calling void writeToParcel(android.os.Parcel,int) in com.github.mikephil.charting.data.Entry
+[2024-03-14 06:40:53.419] calling java.lang.Object createFromParcel(android.os.Parcel) in com.github.mikephil.charting.data.Entry$1
+[2024-03-14 06:40:53.421] true com.github.mikephil.charting.data.Entry
+[2024-03-14 06:40:53.421] calling void writeToParcel(android.os.Parcel,int) in id.dana.cashier.domain.model.CheckoutExternalInfo
+[2024-03-14 06:40:53.423] code wrong with id.dana.cashier.domain.model.CheckoutExternalInfo cannot find creator
+[2024-03-14 06:40:53.423] calling void writeToParcel(android.os.Parcel,int) in com.zhuinden.statebundle.StateBundle$TypeElement
+[2024-03-14 06:40:53.424] calling java.lang.Object createFromParcel(android.os.Parcel) in com.zhuinden.statebundle.StateBundle$TypeElement$1
+[2024-03-14 06:40:53.425] true com.zhuinden.statebundle.StateBundle$TypeElement
+[2024-03-14 06:40:53.425] calling void writeToParcel(android.os.Parcel,int) in id.dana.core.ui.model.CurrencyAmountModel
+[2024-03-14 06:40:53.426] code wrong with id.dana.core.ui.model.CurrencyAmountModel cannot find creator
+[2024-03-14 06:40:53.427] calling void writeToParcel(android.os.Parcel,int) in id.dana.expresspurchase.model.ExpressPurchaseModel$OfferContent
+[2024-03-14 06:40:53.429] code wrong with id.dana.expresspurchase.model.ExpressPurchaseModel$OfferContent cannot find creator
+[2024-03-14 06:40:53.429] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.app.api.activity.StartClientBundle
+[2024-03-14 06:40:53.430] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.app.api.activity.StartClientBundle$1
+[2024-03-14 06:40:53.432] true com.alibaba.ariver.app.api.activity.StartClientBundle
+[2024-03-14 06:40:53.433] calling void writeToParcel(android.os.Parcel,int) in com.zhuinden.statebundle.StateBundle
+[2024-03-14 06:40:53.436] calling java.lang.Object createFromParcel(android.os.Parcel) in com.zhuinden.statebundle.StateBundle$1
+[2024-03-14 06:40:53.471] unknown stop com.zhuinden.statebundle.StateBundle
+[2024-03-14 06:40:53.472] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.griver.image.photo.meta.PhotoInfo
+[2024-03-14 06:40:53.475] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.griver.image.photo.meta.PhotoInfo$1
+[2024-03-14 06:40:53.480] true com.alibaba.griver.image.photo.meta.PhotoInfo
+[2024-03-14 06:40:53.481] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.globalsearch.model.LatLng
+[2024-03-14 06:40:53.482] code wrong with id.dana.domain.globalsearch.model.LatLng cannot find creator
+[2024-03-14 06:40:53.482] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.models.PluginModel
+[2024-03-14 06:40:53.484] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.models.PluginModel$1
+[2024-03-14 06:40:53.488] true com.alibaba.ariver.resource.api.models.PluginModel
+[2024-03-14 06:40:53.488] calling void writeToParcel(android.os.Parcel,int) in id.dana.miniprogram.tnc.TncMiniProgramDialogActivity$StartParams
+[2024-03-14 06:40:53.489] code wrong with id.dana.miniprogram.tnc.TncMiniProgramDialogActivity$StartParams cannot find creator
+[2024-03-14 06:40:53.489] calling void writeToParcel(android.os.Parcel,int) in id.dana.oauth.model.OauthParamsModel
+[2024-03-14 06:40:53.492] code wrong with id.dana.oauth.model.OauthParamsModel cannot find creator
+[2024-03-14 06:40:53.493] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.kernel.ipc.IpcMessage
+[2024-03-14 06:40:53.493] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.kernel.ipc.IpcMessage$1
+[2024-03-14 06:40:53.495] true com.alibaba.ariver.kernel.ipc.IpcMessage
+[2024-03-14 06:40:53.495] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.appinfo.UpdateAppException
+[2024-03-14 06:40:53.497] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.appinfo.UpdateAppException$1
+[2024-03-14 06:40:53.498] true com.alibaba.ariver.resource.api.appinfo.UpdateAppException
+[2024-03-14 06:40:53.499] calling void writeToParcel(android.os.Parcel,int) in id.dana.expresspurchase.model.ExpressPurchaseModel$PreviousPurchasement
+[2024-03-14 06:40:53.500] code wrong with id.dana.expresspurchase.model.ExpressPurchaseModel$PreviousPurchasement cannot find creator
+[2024-03-14 06:40:53.500] calling void writeToParcel(android.os.Parcel,int) in io.branch.referral.util.LinkProperties
+[2024-03-14 06:40:53.502] calling java.lang.Object createFromParcel(android.os.Parcel) in io.branch.referral.util.LinkProperties$1
+[2024-03-14 06:40:53.506] unknown stop io.branch.referral.util.LinkProperties
+[2024-03-14 06:40:53.506] calling void writeToParcel(android.os.Parcel,int) in id.dana.nearbyme.model.PromoInfoModel
+[2024-03-14 06:40:53.508] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.nearbyme.model.PromoInfoModel$1
+[2024-03-14 06:40:53.510] true id.dana.nearbyme.model.PromoInfoModel
+[2024-03-14 06:40:53.510] calling void writeToParcel(android.os.Parcel,int) in id.dana.ocr.model.SnapReceiptBroadcastData
+[2024-03-14 06:40:53.511] code wrong with id.dana.ocr.model.SnapReceiptBroadcastData cannot find creator
+[2024-03-14 06:40:53.512] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.griver.api.ui.splash.SplashEntryInfo
+[2024-03-14 06:40:53.513] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.griver.api.ui.splash.SplashEntryInfo$1
+[2024-03-14 06:40:53.514] true com.alibaba.griver.api.ui.splash.SplashEntryInfo
+[2024-03-14 06:40:53.515] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.ui.groupsend.recipient.model.viewmodel.RecipientViewModel
+[2024-03-14 06:40:53.517] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.sendmoney.ui.groupsend.recipient.model.viewmodel.RecipientViewModel$2
+[2024-03-14 06:40:53.519] true id.dana.sendmoney.ui.groupsend.recipient.model.viewmodel.RecipientViewModel
+[2024-03-14 06:40:53.519] calling void writeToParcel(android.os.Parcel,int) in com.airbnb.epoxy.stickyheader.StickyHeaderLinearLayoutManager$SavedState
+[2024-03-14 06:40:53.520] calling java.lang.Object createFromParcel(android.os.Parcel) in com.airbnb.epoxy.stickyheader.StickyHeaderLinearLayoutManager$SavedState$Creator
+[2024-03-14 06:40:53.521] true com.airbnb.epoxy.stickyheader.StickyHeaderLinearLayoutManager$SavedState
+[2024-03-14 06:40:53.521] calling void writeToParcel(android.os.Parcel,int) in id.dana.model.ThirdPartyService$SpmId
+[2024-03-14 06:40:53.521] code wrong with id.dana.model.ThirdPartyService$SpmId cannot find creator
+[2024-03-14 06:40:53.521] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.models.ContainerModel
+[2024-03-14 06:40:53.522] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.models.ContainerModel$1
+[2024-03-14 06:40:53.523] true com.alibaba.ariver.resource.api.models.ContainerModel
+[2024-03-14 06:40:53.523] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.app.api.activity.ActivityAnimBean
+[2024-03-14 06:40:53.524] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.app.api.activity.ActivityAnimBean$1
+[2024-03-14 06:40:53.526] true com.alibaba.ariver.app.api.activity.ActivityAnimBean
+[2024-03-14 06:40:53.527] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.engine.api.bridge.model.CreateParams
+[2024-03-14 06:40:53.528] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.engine.api.bridge.model.CreateParams$1
+[2024-03-14 06:40:53.529] true com.alibaba.ariver.engine.api.bridge.model.CreateParams
+[2024-03-14 06:40:53.530] calling void writeToParcel(android.os.Parcel,int) in id.dana.notification.NotificationData
+[2024-03-14 06:40:53.531] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.notification.NotificationData$1
+[2024-03-14 06:40:53.533] true id.dana.notification.NotificationData
+[2024-03-14 06:40:53.533] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.models.TemplateConfigModel
+[2024-03-14 06:40:53.535] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.models.TemplateConfigModel$1
+[2024-03-14 06:40:53.537] true com.alibaba.ariver.resource.api.models.TemplateConfigModel
+[2024-03-14 06:40:53.537] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.app.api.EntryInfo
+[2024-03-14 06:40:53.538] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.app.api.EntryInfo$1
+[2024-03-14 06:40:53.540] true com.alibaba.ariver.app.api.EntryInfo
+[2024-03-14 06:40:53.540] calling void writeToParcel(android.os.Parcel,int) in id.dana.home.model.SnackbarEvent
+[2024-03-14 06:40:53.541] code wrong with id.dana.home.model.SnackbarEvent cannot find creator
+[2024-03-14 06:40:53.542] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.kernel.ipc.uniform.IPCParameter
+[2024-03-14 06:40:53.551] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.kernel.ipc.uniform.IPCParameter$1
+[2024-03-14 06:40:53.561] unknown stop com.alibaba.ariver.kernel.ipc.uniform.IPCParameter
+[2024-03-14 06:40:53.561] calling void writeToParcel(android.os.Parcel,int) in id.dana.ocr.model.SnapReceiptTaskModel
+[2024-03-14 06:40:53.562] code wrong with id.dana.ocr.model.SnapReceiptTaskModel cannot find creator
+[2024-03-14 06:40:53.563] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.model.BankModel
+[2024-03-14 06:40:53.565] code wrong with id.dana.sendmoney.model.BankModel cannot find creator
+[2024-03-14 06:40:53.565] calling void writeToParcel(android.os.Parcel,int) in id.dana.kyb.model.KybPageInfo
+[2024-03-14 06:40:53.566] code wrong with id.dana.kyb.model.KybPageInfo cannot find creator
+[2024-03-14 06:40:53.566] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.kernel.api.remote.RemoteCallArgs
+[2024-03-14 06:40:53.568] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.kernel.api.remote.RemoteCallArgs$1
+[2024-03-14 06:40:53.580] true com.alibaba.ariver.kernel.api.remote.RemoteCallArgs
+[2024-03-14 06:40:53.580] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.models.TemplateExtModel
+[2024-03-14 06:40:53.581] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.models.TemplateExtModel$1
+[2024-03-14 06:40:53.583] true com.alibaba.ariver.resource.api.models.TemplateExtModel
+[2024-03-14 06:40:53.584] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.engine.api.bridge.model.NativeCallContext
+[2024-03-14 06:40:53.586] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.engine.api.bridge.model.NativeCallContext$1
+[2024-03-14 06:40:53.588] true com.alibaba.ariver.engine.api.bridge.model.NativeCallContext
+[2024-03-14 06:40:53.588] calling void writeToParcel(android.os.Parcel,int) in com.airbnb.epoxy.ViewHolderState$ViewState
+[2024-03-14 06:40:53.590] code wrong with com.airbnb.epoxy.ViewHolderState$ViewState cannot find creator
+[2024-03-14 06:40:53.590] calling void writeToParcel(android.os.Parcel,int) in id.dana.model.SkuAttributeModel
+[2024-03-14 06:40:53.590] code wrong with id.dana.model.SkuAttributeModel cannot find creator
+[2024-03-14 06:40:53.591] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.useragreement.model.AgreementInfo
+[2024-03-14 06:40:53.593] code wrong with id.dana.domain.useragreement.model.AgreementInfo cannot find creator
+[2024-03-14 06:40:53.594] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.engine.api.bridge.model.NativeCallContext$StatData
+[2024-03-14 06:40:53.594] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.engine.api.bridge.model.NativeCallContext$StatData$1
+[2024-03-14 06:40:53.596] true com.alibaba.ariver.engine.api.bridge.model.NativeCallContext$StatData
+[2024-03-14 06:40:53.596] calling void writeToParcel(android.os.Parcel,int) in id.dana.domain.profilemenu.model.SettingModel
+[2024-03-14 06:40:53.598] calling java.lang.Object createFromParcel(android.os.Parcel) in id.dana.domain.profilemenu.model.SettingModel$1
+[2024-03-14 06:40:53.604] true id.dana.domain.profilemenu.model.SettingModel
+[2024-03-14 06:40:53.605] calling void writeToParcel(android.os.Parcel,int) in id.dana.data.paylater.repository.source.network.result.PaylaterCicilMethodConfigResult
+[2024-03-14 06:40:53.606] code wrong with id.dana.data.paylater.repository.source.network.result.PaylaterCicilMethodConfigResult cannot find creator
+[2024-03-14 06:40:53.606] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.models.AppInfoModel
+[2024-03-14 06:40:53.610] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.models.AppInfoModel$1
+[2024-03-14 06:40:53.615] true com.alibaba.ariver.resource.api.models.AppInfoModel
+[2024-03-14 06:40:53.615] calling void writeToParcel(android.os.Parcel,int) in com.airbnb.epoxy.ViewHolderState
+[2024-03-14 06:40:53.619] calling java.lang.Object createFromParcel(android.os.Parcel) in com.airbnb.epoxy.ViewHolderState$1
+[2024-03-14 06:40:53.620] unknown stop com.airbnb.epoxy.ViewHolderState
+[2024-03-14 06:40:53.621] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.models.PermissionModel
+[2024-03-14 06:40:53.626] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.models.PermissionModel$1
+[2024-03-14 06:40:53.631] false com.alibaba.ariver.resource.api.models.PermissionModel {Byte, Array, Serializable, Serializable, Serializable, Serializable, String, String, Int, StringArray, ParcelableArray} vs {Byte, Array, Serializable, Serializable, Byte, Array, Byte, Array, Serializable, Serializable, Byte, Array, String, Byte, Array, Byte, Array, String, Int, StringArray, ParcelableArray}
+[2024-03-14 06:40:53.631] calling void writeToParcel(android.os.Parcel,int) in id.dana.ocr.model.ReuploadReceiptTaskModel
+[2024-03-14 06:40:53.632] code wrong with id.dana.ocr.model.ReuploadReceiptTaskModel cannot find creator
+[2024-03-14 06:40:53.632] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.prepare.PrepareData
+[2024-03-14 06:40:53.634] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.prepare.PrepareData$1
+[2024-03-14 06:40:53.637] true com.alibaba.ariver.resource.api.prepare.PrepareData
+[2024-03-14 06:40:53.637] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.kernel.ipc.uniform.IPCResult
+[2024-03-14 06:40:53.642] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.kernel.ipc.uniform.IPCResult$1
+[2024-03-14 06:40:53.648] true com.alibaba.ariver.kernel.ipc.uniform.IPCResult
+[2024-03-14 06:40:53.648] calling void writeToParcel(android.os.Parcel,int) in com.zhuinden.simplestack.ParcelledState
+[2024-03-14 06:40:53.650] calling java.lang.Object createFromParcel(android.os.Parcel) in com.zhuinden.simplestack.ParcelledState$1
+[2024-03-14 06:40:53.652] true com.zhuinden.simplestack.ParcelledState
+[2024-03-14 06:40:53.653] code wrong with id.dana.expresspurchase.model.ExpressPurchaseModel cannot find writeToParcel
+[2024-03-14 06:40:53.653] calling void writeToParcel(android.os.Parcel,int) in id.dana.danah5.locationpicker.MiniProgramLocationPickerActivity$Place
+[2024-03-14 06:40:53.654] code wrong with id.dana.danah5.locationpicker.MiniProgramLocationPickerActivity$Place cannot find creator
+[2024-03-14 06:40:53.654] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.models.SpecificPluginInfo
+[2024-03-14 06:40:53.654] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.models.SpecificPluginInfo$1
+[2024-03-14 06:40:53.656] true com.alibaba.ariver.resource.api.models.SpecificPluginInfo
+[2024-03-14 06:40:53.656] calling void writeToParcel(android.os.Parcel,int) in id.dana.sendmoney.ui.groupsend.summary.model.GroupSendIntentModel
+[2024-03-14 06:40:53.659] code wrong with id.dana.sendmoney.ui.groupsend.summary.model.GroupSendIntentModel cannot find creator
+[2024-03-14 06:40:53.660] calling void writeToParcel(android.os.Parcel,int) in com.alibaba.ariver.resource.api.models.AppModel
+[2024-03-14 06:40:53.661] calling java.lang.Object createFromParcel(android.os.Parcel) in com.alibaba.ariver.resource.api.models.AppModel$2
+[2024-03-14 06:40:53.663] true com.alibaba.ariver.resource.api.models.AppModel
+[2024-03-14 06:41:01.497] start handling /home/cs/Downloads/apks/TikTok Lite_28.8.2_Apkpure.apk ...
+[2024-03-14 06:41:14.176] Class sizing... 27852
+[2024-03-14 06:41:14.177] calling void writeToParcel(android.os.Parcel,int) in com.bytedance.common.wschannel.model.IntegerParcelable
+[2024-03-14 06:41:14.953] calling java.lang.Object createFromParcel(android.os.Parcel) in com.bytedance.common.wschannel.model.IntegerParcelable$1
+[2024-03-14 06:41:15.079] true com.bytedance.common.wschannel.model.IntegerParcelable
+[2024-03-14 06:41:15.080] calling void writeToParcel(android.os.Parcel,int) in com.ss.android.ugc.aweme.model.TextExtraStruct
+[2024-03-14 06:41:15.740] calling java.lang.Object createFromParcel(android.os.Parcel) in com.ss.android.ugc.aweme.model.TextExtraStruct$1
+[2024-03-14 06:41:15.861] true com.ss.android.ugc.aweme.model.TextExtraStruct
+[2024-03-14 06:41:15.862] calling void writeToParcel(android.os.Parcel,int) in com.bytedance.common.wschannel.model.WsChannelMsg$MsgHeader
+[2024-03-14 06:41:16.726] calling java.lang.Object createFromParcel(android.os.Parcel) in com.bytedance.common.wschannel.model.WsChannelMsg$MsgHeader$1
+[2024-03-14 06:41:16.783] true com.bytedance.common.wschannel.model.WsChannelMsg$MsgHeader
+[2024-03-14 06:41:16.784] calling void writeToParcel(android.os.Parcel,int) in com.ss.android.ugc.aweme.tracker.native.UltharNativeTracker
+[2024-03-14 06:41:17.914] calling java.lang.Object createFromParcel(android.os.Parcel) in com.ss.android.ugc.aweme.tracker.native.UltharNativeTracker$a
+[2024-03-14 06:41:17.918] false com.ss.android.ugc.aweme.tracker.native.UltharNativeTracker {String, String} vs {String, String, String}
+[2024-03-14 06:41:17.919] calling void writeToParcel(android.os.Parcel,int) in com.facebook.login.LoginMethodHandler
+[2024-03-14 06:41:17.949] code wrong with com.facebook.login.LoginMethodHandler cannot find clinit
+[2024-03-14 06:41:17.949] calling void writeToParcel(android.os.Parcel,int) in com.bytedance.hybrid.spark.SparkContext
+[2024-03-14 06:41:19.062] calling java.lang.Object createFromParcel(android.os.Parcel) in com.bytedance.hybrid.spark.SparkContext$b
+[2024-03-14 06:41:19.203] true com.bytedance.hybrid.spark.SparkContext
+[2024-03-14 06:41:19.204] calling void writeToParcel(android.os.Parcel,int) in com.bytedance.common.wschannel.model.SocketState
+[2024-03-14 06:41:59.786] start handling /home/cs/Downloads/apks/xnxx.freepornvideos ...
+[2024-03-14 06:42:11.529] Class sizing... 18239
+[2024-03-14 06:42:11.530] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.metadata.Metadata
+[2024-03-14 06:42:11.652] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.metadata.Metadata$1
+[2024-03-14 06:42:11.673] unknown stop com.google.android.exoplayer2.metadata.Metadata
+[2024-03-14 06:42:11.674] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.trackselection.DefaultTrackSelector$SelectionOverride
+[2024-03-14 06:42:11.680] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.trackselection.DefaultTrackSelector$SelectionOverride$1
+[2024-03-14 06:42:11.687] false com.google.android.exoplayer2.trackselection.DefaultTrackSelector$SelectionOverride {Int, Byte, IntArray, Int} vs {Int, Int, IntArray, Int}
+[2024-03-14 06:42:11.688] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.drm.DrmInitData
+[2024-03-14 06:42:11.691] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.drm.DrmInitData$1
+[2024-03-14 06:42:11.698] true com.google.android.exoplayer2.drm.DrmInitData
+[2024-03-14 06:42:11.698] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.scheduler.Requirements
+[2024-03-14 06:42:11.701] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.scheduler.Requirements$1
+[2024-03-14 06:42:11.704] true com.google.android.exoplayer2.scheduler.Requirements
+[2024-03-14 06:42:11.705] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.source.TrackGroup
+[2024-03-14 06:42:11.712] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.source.TrackGroup$1
+[2024-03-14 06:42:11.720] unknown stop com.google.android.exoplayer2.source.TrackGroup
+[2024-03-14 06:42:11.720] calling void writeToParcel(android.os.Parcel,int) in com.facebook.login.LoginClient$Result
+[2024-03-14 06:42:11.739] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.login.LoginClient$Result$a
+[2024-03-14 06:42:11.758] true com.facebook.login.LoginClient$Result
+[2024-03-14 06:42:11.758] calling void writeToParcel(android.os.Parcel,int) in com.google.ads.interactivemedia.v3.internal.amp
+[2024-03-14 06:42:11.764] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.ads.interactivemedia.v3.internal.amo
+[2024-03-14 06:42:11.769] true com.google.ads.interactivemedia.v3.internal.amp
+[2024-03-14 06:42:11.770] calling void writeToParcel(android.os.Parcel,int) in com.google.ads.interactivemedia.v3.internal.py
+[2024-03-14 06:42:11.773] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.ads.interactivemedia.v3.internal.px
+[2024-03-14 06:42:11.779] true com.google.ads.interactivemedia.v3.internal.py
+[2024-03-14 06:42:11.780] calling void writeToParcel(android.os.Parcel,int) in com.google.ads.interactivemedia.v3.internal.pz
+[2024-03-14 06:42:11.783] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.ads.interactivemedia.v3.internal.px
+[2024-03-14 06:42:11.784] false com.google.ads.interactivemedia.v3.internal.pz {Long, Long, String, String, ByteArray} vs {String, TypedArray}
+[2024-03-14 06:42:11.784] calling void writeToParcel(android.os.Parcel,int) in com.google.ads.interactivemedia.v3.internal.yn
+[2024-03-14 06:42:11.791] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.ads.interactivemedia.v3.internal.yl
+[2024-03-14 06:42:11.798] unknown stop com.google.ads.interactivemedia.v3.internal.yn
+[2024-03-14 06:42:11.799] calling void writeToParcel(android.os.Parcel,int) in com.google.ads.interactivemedia.v3.internal.zw
+[2024-03-14 06:42:11.802] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.ads.interactivemedia.v3.internal.zv
+[2024-03-14 06:42:11.805] true com.google.ads.interactivemedia.v3.internal.zw
+[2024-03-14 06:42:11.805] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.Format
+[2024-03-14 06:42:11.829] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.Format$1
+[2024-03-14 06:42:11.857] unknown stop com.google.android.exoplayer2.Format
+[2024-03-14 06:42:11.858] calling void writeToParcel(android.os.Parcel,int) in com.google.ads.interactivemedia.v3.internal.ke
+[2024-03-14 06:42:11.875] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.ads.interactivemedia.v3.internal.kc
+[2024-03-14 06:42:11.896] unknown stop com.google.ads.interactivemedia.v3.internal.ke
+[2024-03-14 06:42:11.896] calling void writeToParcel(android.os.Parcel,int) in com.google.ads.interactivemedia.v3.internal.acq
+[2024-03-14 06:42:11.901] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.ads.interactivemedia.v3.internal.acp
+[2024-03-14 06:42:11.910] unknown stop com.google.ads.interactivemedia.v3.internal.acq
+[2024-03-14 06:42:11.911] calling void writeToParcel(android.os.Parcel,int) in com.google.ads.interactivemedia.v3.internal.aco
+[2024-03-14 06:42:11.914] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.ads.interactivemedia.v3.internal.acp
+[2024-03-14 06:42:11.918] unknown stop com.google.ads.interactivemedia.v3.internal.aco
+[2024-03-14 06:42:11.919] calling void writeToParcel(android.os.Parcel,int) in com.google.ads.interactivemedia.v3.internal.agk
+[2024-03-14 06:42:11.921] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.ads.interactivemedia.v3.internal.agj
+[2024-03-14 06:42:11.929] true com.google.ads.interactivemedia.v3.internal.agk
+[2024-03-14 06:42:11.929] calling void writeToParcel(android.os.Parcel,int) in com.google.ads.interactivemedia.v3.internal.aic
+[2024-03-14 06:42:11.932] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.ads.interactivemedia.v3.internal.aib
+[2024-03-14 06:42:11.945] false com.google.ads.interactivemedia.v3.internal.aic {Int, Byte, IntArray, Int} vs {Int, Int, IntArray, Int}
+[2024-03-14 06:42:11.945] calling void writeToParcel(android.os.Parcel,int) in com.google.ads.interactivemedia.v3.internal.ain
+[2024-03-14 06:42:11.948] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.ads.interactivemedia.v3.internal.aib
+[2024-03-14 06:42:11.950] false com.google.ads.interactivemedia.v3.internal.ain {Int, Byte, IntArray, Int} vs {List, Int, List, Int, Int, Int}
+[2024-03-14 06:42:11.951] calling void writeToParcel(android.os.Parcel,int) in com.facebook.login.LoginMethodHandler
+[2024-03-14 06:42:11.954] code wrong with com.facebook.login.LoginMethodHandler cannot find clinit
+[2024-03-14 06:42:11.954] calling void writeToParcel(android.os.Parcel,int) in com.facebook.share.internal.DeviceShareDialogFragment$RequestState
+[2024-03-14 06:42:11.957] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.share.internal.DeviceShareDialogFragment$RequestState$a
+[2024-03-14 06:42:11.960] true com.facebook.share.internal.DeviceShareDialogFragment$RequestState
+[2024-03-14 06:42:11.960] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.source.TrackGroupArray
+[2024-03-14 06:42:11.964] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.source.TrackGroupArray$1
+[2024-03-14 06:42:11.969] unknown stop com.google.android.exoplayer2.source.TrackGroupArray
+[2024-03-14 06:42:11.970] calling void writeToParcel(android.os.Parcel,int) in com.facebook.login.LoginClient
+[2024-03-14 06:42:11.973] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.login.LoginClient$a
+[2024-03-14 06:42:11.980] true com.facebook.login.LoginClient
+[2024-03-14 06:42:11.980] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.metadata.mp4.SlowMotionData$Segment
+[2024-03-14 06:42:11.982] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.metadata.mp4.SlowMotionData$Segment$1
+[2024-03-14 06:42:11.984] true com.google.android.exoplayer2.metadata.mp4.SlowMotionData$Segment
+[2024-03-14 06:42:11.985] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.trackselection.TrackSelectionParameters
+[2024-03-14 06:42:11.987] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.trackselection.TrackSelectionParameters$1
+[2024-03-14 06:42:11.991] true com.google.android.exoplayer2.trackselection.TrackSelectionParameters
+[2024-03-14 06:42:11.992] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.drm.DrmInitData$SchemeData
+[2024-03-14 06:42:11.996] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.drm.DrmInitData$SchemeData$1
+[2024-03-14 06:42:12.000] true com.google.android.exoplayer2.drm.DrmInitData$SchemeData
+[2024-03-14 06:42:12.000] calling void writeToParcel(android.os.Parcel,int) in com.facebook.AccessToken
+[2024-03-14 06:42:12.006] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.AccessToken$a
+[2024-03-14 06:42:12.011] true com.facebook.AccessToken
+[2024-03-14 06:42:12.012] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.util.parcelable.WrappedParcelable
+[2024-03-14 06:42:12.013] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.internal.util.parcelable.WrappedParcelable$1
+[2024-03-14 06:42:12.016] true com.facebook.ads.internal.util.parcelable.WrappedParcelable
+[2024-03-14 06:42:12.017] calling void writeToParcel(android.os.Parcel,int) in com.facebook.Profile
+[2024-03-14 06:42:12.022] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.Profile$b
+[2024-03-14 06:42:12.029] true com.facebook.Profile
+[2024-03-14 06:42:12.029] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.offline.StreamKey
+[2024-03-14 06:42:12.031] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.offline.StreamKey$1
+[2024-03-14 06:42:12.033] true com.google.android.exoplayer2.offline.StreamKey
+[2024-03-14 06:42:12.034] calling void writeToParcel(android.os.Parcel,int) in com.facebook.GraphRequest$ParcelableResourceWithMimeType
+[2024-03-14 06:42:12.035] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.GraphRequest$ParcelableResourceWithMimeType$a
+[2024-03-14 06:42:12.038] true com.facebook.GraphRequest$ParcelableResourceWithMimeType
+[2024-03-14 06:42:12.039] calling void writeToParcel(android.os.Parcel,int) in com.facebook.FacebookRequestError
+[2024-03-14 06:42:12.041] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.FacebookRequestError$a
+[2024-03-14 06:42:12.046] true com.facebook.FacebookRequestError
+[2024-03-14 06:42:12.047] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.offline.DownloadRequest
+[2024-03-14 06:42:12.052] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.offline.DownloadRequest$1
+[2024-03-14 06:42:12.059] unknown stop com.google.android.exoplayer2.offline.DownloadRequest
+[2024-03-14 06:42:12.059] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.source.hls.HlsTrackMetadataEntry$VariantInfo
+[2024-03-14 06:42:12.061] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.source.hls.HlsTrackMetadataEntry$VariantInfo$1
+[2024-03-14 06:42:12.064] true com.google.android.exoplayer2.source.hls.HlsTrackMetadataEntry$VariantInfo
+[2024-03-14 06:42:12.065] calling void writeToParcel(android.os.Parcel,int) in com.facebook.login.LoginClient$Request
+[2024-03-14 06:42:12.068] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.login.LoginClient$Request$a
+[2024-03-14 06:42:12.073] true com.facebook.login.LoginClient$Request
+[2024-03-14 06:42:12.074] calling void writeToParcel(android.os.Parcel,int) in com.facebook.login.DeviceAuthDialog$RequestState
+[2024-03-14 06:42:12.075] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.login.DeviceAuthDialog$RequestState$a
+[2024-03-14 06:42:12.078] true com.facebook.login.DeviceAuthDialog$RequestState
+[2024-03-14 06:42:12.079] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.internal.ParcelableSparseBooleanArray
+[2024-03-14 06:42:12.082] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.internal.ParcelableSparseBooleanArray$a
+[2024-03-14 06:42:12.084] true com.google.android.material.internal.ParcelableSparseBooleanArray
+[2024-03-14 06:42:12.084] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.badge.BadgeDrawable$SavedState
+[2024-03-14 06:42:12.087] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.badge.BadgeDrawable$SavedState$a
+[2024-03-14 06:42:12.091] true com.google.android.material.badge.BadgeDrawable$SavedState
+[2024-03-14 06:42:12.091] calling void writeToParcel(android.os.Parcel,int) in com.google.android.exoplayer2.video.ColorInfo
+[2024-03-14 06:42:12.093] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.exoplayer2.video.ColorInfo$1
+[2024-03-14 06:42:12.096] true com.google.android.exoplayer2.video.ColorInfo
+[2024-03-14 06:42:12.096] calling void writeToParcel(android.os.Parcel,int) in com.startapp.sdk.ads.list3d.i
+[2024-03-14 06:42:12.099] calling java.lang.Object createFromParcel(android.os.Parcel) in com.startapp.sdk.ads.list3d.i$1
+[2024-03-14 06:42:12.103] true com.startapp.sdk.ads.list3d.i
+[2024-03-14 06:42:12.103] calling void writeToParcel(android.os.Parcel,int) in com.startapp.sdk.ads.list3d.d
+[2024-03-14 06:42:12.109] calling java.lang.Object createFromParcel(android.os.Parcel) in com.startapp.sdk.ads.list3d.d$1
+[2024-03-14 06:42:12.117] false com.startapp.sdk.ads.list3d.d {Int, String, String, String, String, String, String, String, String, String, Float, Int, Int, String, String, String, Long, Int} vs {Parcelable, Int, Int, String, String, String, String, String, String, String, String, String, Float, Int, Int, String, String, String, Long, Long, Int}
+[2024-03-14 06:42:12.118] calling void writeToParcel(android.os.Parcel,int) in com.startapp.sdk.ads.list3d.a
+[2024-03-14 06:42:12.118] code wrong with com.startapp.sdk.ads.list3d.a cannot find clinit
+[2024-03-14 06:42:12.119] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.datepicker.CalendarConstraints
+[2024-03-14 06:42:12.121] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.datepicker.CalendarConstraints$a
+[2024-03-14 06:42:12.125] true com.google.android.material.datepicker.CalendarConstraints
+[2024-03-14 06:42:12.126] calling void writeToParcel(android.os.Parcel,int) in xnxx.freepornvideos.Sticker
+[2024-03-14 06:42:12.128] calling java.lang.Object createFromParcel(android.os.Parcel) in xnxx.freepornvideos.Sticker$a
+[2024-03-14 06:42:12.131] true xnxx.freepornvideos.Sticker
+[2024-03-14 06:42:12.132] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.timepicker.TimeModel
+[2024-03-14 06:42:12.134] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.timepicker.TimeModel$a
+[2024-03-14 06:42:12.136] true com.google.android.material.timepicker.TimeModel
+[2024-03-14 06:42:12.137] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.internal.ParcelableSparseArray
+[2024-03-14 06:42:12.140] code wrong with com.google.android.material.internal.ParcelableSparseArray cannot find creator
+[2024-03-14 06:42:12.140] calling void writeToParcel(android.os.Parcel,int) in com.google.android.gms.common.internal.BinderWrapper
+[2024-03-14 06:42:12.142] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.gms.common.internal.i1
+[2024-03-14 06:42:12.143] true com.google.android.gms.common.internal.BinderWrapper
+[2024-03-14 06:42:12.144] calling void writeToParcel(android.os.Parcel,int) in com.startapp.sdk.adsbase.model.AdDetails
+[2024-03-14 06:42:12.151] calling java.lang.Object createFromParcel(android.os.Parcel) in com.startapp.sdk.adsbase.model.AdDetails$1
+[2024-03-14 06:42:12.159] false com.startapp.sdk.adsbase.model.AdDetails {String, String, String, String, String, String, String, String, String, Float, Int, Int, String, String, String, String, String, Int, String, String, Int, Int, Long, Long, Int} vs {String, String, String, String, String, String, String, String, String, Float, Int, Int, String, String, String, String, String, Int, String, String, Int, Int, Long, Long, Long, Long, Int}
+[2024-03-14 06:42:12.160] calling void writeToParcel(android.os.Parcel,int) in com.startapp.sdk.ads.banner.banner3d.a
+[2024-03-14 06:42:12.163] calling java.lang.Object createFromParcel(android.os.Parcel) in com.startapp.sdk.ads.banner.banner3d.a$1
+[2024-03-14 06:42:12.166] true com.startapp.sdk.ads.banner.banner3d.a
+[2024-03-14 06:42:12.166] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.internal.ParcelableSparseIntArray
+[2024-03-14 06:42:12.169] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.internal.ParcelableSparseIntArray$a
+[2024-03-14 06:42:12.172] true com.google.android.material.internal.ParcelableSparseIntArray
+[2024-03-14 06:42:12.172] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.navigation.NavigationBarPresenter$SavedState
+[2024-03-14 06:42:12.173] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.navigation.NavigationBarPresenter$SavedState$a
+[2024-03-14 06:42:12.175] true com.google.android.material.navigation.NavigationBarPresenter$SavedState
+[2024-03-14 06:42:12.176] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.datepicker.Month
+[2024-03-14 06:42:12.177] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.datepicker.Month$a
+[2024-03-14 06:42:12.178] true com.google.android.material.datepicker.Month
+[2024-03-14 06:42:12.179] calling void writeToParcel(android.os.Parcel,int) in xnxx.freepornvideos.StickerPack
+[2024-03-14 06:42:12.181] calling java.lang.Object createFromParcel(android.os.Parcel) in xnxx.freepornvideos.StickerPack$a
+[2024-03-14 06:42:12.187] true xnxx.freepornvideos.StickerPack
+[2024-03-14 06:42:12.189] calling void writeToParcel(android.os.Parcel,int) in com.google.firebase.iid.zzl
+[2024-03-14 06:42:12.191] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.firebase.iid.o0
+[2024-03-14 06:42:12.192] true com.google.firebase.iid.zzl
+[2024-03-14 06:42:12.193] calling void writeToParcel(android.os.Parcel,int) in com.unity3d.services.core.webview.bridge.WebViewCallback
+[2024-03-14 06:42:12.194] calling java.lang.Object createFromParcel(android.os.Parcel) in com.unity3d.services.core.webview.bridge.WebViewCallback$1
+[2024-03-14 06:42:12.197] true com.unity3d.services.core.webview.bridge.WebViewCallback
+[2024-03-14 06:42:12.198] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.source.TrackGroupArray
+[2024-03-14 06:42:12.204] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.Fs
+[2024-03-14 06:42:12.209] unknown stop com.facebook.ads.internal.exoplayer2.source.TrackGroupArray
+[2024-03-14 06:42:12.210] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.androidx.support.v4.view.AbsSavedState
+[2024-03-14 06:42:12.212] code wrong with com.facebook.ads.internal.androidx.support.v4.view.AbsSavedState cannot find creator
+[2024-03-14 06:42:12.212] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.androidx.support.v7.widget.LinearLayoutManager$SavedState
+[2024-03-14 06:42:12.215] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.42
+[2024-03-14 06:42:12.217] true com.facebook.ads.internal.androidx.support.v7.widget.LinearLayoutManager$SavedState
+[2024-03-14 06:42:12.218] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.source.TrackGroup
+[2024-03-14 06:42:12.221] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.Fq
+[2024-03-14 06:42:12.226] unknown stop com.facebook.ads.internal.exoplayer2.source.TrackGroup
+[2024-03-14 06:42:12.226] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.trackselection.DefaultTrackSelector$Parameters
+[2024-03-14 06:42:12.238] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.H5
+[2024-03-14 06:42:12.246] true com.facebook.ads.internal.exoplayer2.trackselection.DefaultTrackSelector$Parameters
+[2024-03-14 06:42:12.246] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.video.ColorInfo
+[2024-03-14 06:42:12.249] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.Io
+[2024-03-14 06:42:12.253] true com.facebook.ads.internal.exoplayer2.video.ColorInfo
+[2024-03-14 06:42:12.253] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.trackselection.DefaultTrackSelector$SelectionOverride
+[2024-03-14 06:42:12.255] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.H8
+[2024-03-14 06:42:12.257] false com.facebook.ads.internal.exoplayer2.trackselection.DefaultTrackSelector$SelectionOverride {Int, Byte, IntArray} vs {Int, Int, IntArray}
+[2024-03-14 06:42:12.258] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.metadata.Metadata
+[2024-03-14 06:42:12.263] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.E0
+[2024-03-14 06:42:12.267] unknown stop com.facebook.ads.internal.exoplayer2.metadata.Metadata
+[2024-03-14 06:42:12.267] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.Format
+[2024-03-14 06:42:12.276] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.AK
+[2024-03-14 06:42:12.283] unknown stop com.facebook.ads.internal.exoplayer2.Format
+[2024-03-14 06:42:12.284] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.drm.DrmInitData$SchemeData
+[2024-03-14 06:42:12.287] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.C3
+[2024-03-14 06:42:12.289] true com.facebook.ads.internal.exoplayer2.drm.DrmInitData$SchemeData
+[2024-03-14 06:42:12.290] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.drm.DrmInitData
+[2024-03-14 06:42:12.291] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.C2
+[2024-03-14 06:42:12.294] true com.facebook.ads.internal.exoplayer2.drm.DrmInitData
+[2024-03-14 06:43:10.322] start handling /home/cs/Downloads/apks/Music Player - MP3 Player_v6.8.1_Apkpure.apk ...
+[2024-03-14 06:43:22.937] Class sizing... 25945
+[2024-03-14 06:43:22.938] calling void writeToParcel(android.os.Parcel,int) in f.g.a.b.a4.n.d$b
+[2024-03-14 06:43:23.066] calling java.lang.Object createFromParcel(android.os.Parcel) in f.g.a.b.a4.n.d$b$a
+[2024-03-14 06:43:23.072] true f.g.a.b.a4.n.d$b
+[2024-03-14 06:43:23.072] calling void writeToParcel(android.os.Parcel,int) in com.shaiban.audioplayer.mplayer.video.playlist.r.d
+[2024-03-14 06:43:23.078] calling java.lang.Object createFromParcel(android.os.Parcel) in com.shaiban.audioplayer.mplayer.video.playlist.r.d$a
+[2024-03-14 06:43:23.083] true com.shaiban.audioplayer.mplayer.video.playlist.r.d
+[2024-03-14 06:43:23.083] calling void writeToParcel(android.os.Parcel,int) in com.shaiban.audioplayer.mplayer.video.playlist.r.h
+[2024-03-14 06:43:23.087] calling java.lang.Object createFromParcel(android.os.Parcel) in com.shaiban.audioplayer.mplayer.video.playlist.r.h$a
+[2024-03-14 06:43:23.093] true com.shaiban.audioplayer.mplayer.video.playlist.r.h
+[2024-03-14 06:43:23.094] calling void writeToParcel(android.os.Parcel,int) in e.j.a.a
+[2024-03-14 06:43:23.098] code wrong with e.j.a.a cannot find creator
+[2024-03-14 06:43:23.099] calling void writeToParcel(android.os.Parcel,int) in d.a.b.a.b
+[2024-03-14 06:43:23.123] calling java.lang.Object createFromParcel(android.os.Parcel) in d.a.b.a.b$a
+[2024-03-14 06:43:23.130] true d.a.b.a.b
+[2024-03-14 06:43:23.130] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.d.m.d
+[2024-03-14 06:43:23.134] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.d.m.d$a
+[2024-03-14 06:43:23.139] true f.l.a.a.d.m.d
+[2024-03-14 06:43:23.139] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.d.m.f
+[2024-03-14 06:43:23.149] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.d.m.f$a
+[2024-03-14 06:43:23.157] false f.l.a.a.d.m.f {Int} vs {String, String, Int, String, String, String, Int}
+[2024-03-14 06:43:23.157] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.d.m.h
+[2024-03-14 06:43:23.158] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.d.m.h$a
+[2024-03-14 06:43:23.162] true f.l.a.a.d.m.h
+[2024-03-14 06:43:23.162] calling void writeToParcel(android.os.Parcel,int) in com.yalantis.ucrop.k.a
+[2024-03-14 06:43:23.165] calling java.lang.Object createFromParcel(android.os.Parcel) in com.yalantis.ucrop.k.a$a
+[2024-03-14 06:43:23.168] true com.yalantis.ucrop.k.a
+[2024-03-14 06:43:23.169] calling void writeToParcel(android.os.Parcel,int) in f.g.a.b.a4.a
+[2024-03-14 06:43:23.179] calling java.lang.Object createFromParcel(android.os.Parcel) in f.g.a.b.a4.a$a
+[2024-03-14 06:43:23.190] unknown stop f.g.a.b.a4.a
+[2024-03-14 06:43:23.190] calling void writeToParcel(android.os.Parcel,int) in f.g.a.b.w3.v
+[2024-03-14 06:43:23.193] calling java.lang.Object createFromParcel(android.os.Parcel) in f.g.a.b.w3.v$a
+[2024-03-14 06:43:23.197] true f.g.a.b.w3.v
+[2024-03-14 06:43:23.198] calling void writeToParcel(android.os.Parcel,int) in f.g.a.b.w3.v$b
+[2024-03-14 06:43:23.200] calling java.lang.Object createFromParcel(android.os.Parcel) in f.g.a.b.w3.v$b$a
+[2024-03-14 06:43:23.204] true f.g.a.b.w3.v$b
+[2024-03-14 06:43:23.204] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.util.parcelable.WrappedParcelable
+[2024-03-14 06:43:23.205] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.internal.util.parcelable.WrappedParcelable$a
+[2024-03-14 06:43:23.208] true com.facebook.ads.internal.util.parcelable.WrappedParcelable
+[2024-03-14 06:43:23.209] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.g.a.i.b
+[2024-03-14 06:43:23.212] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.g.a.i.b$a
+[2024-03-14 06:43:23.215] true f.l.a.a.g.a.i.b
+[2024-03-14 06:43:23.215] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.g.a.i.d
+[2024-03-14 06:43:23.220] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.g.a.i.d$a
+[2024-03-14 06:43:23.222] false f.l.a.a.g.a.i.d {Parcelable} vs {Long, Long, String, String, String, Long, Long, Long, Long, Long, Long, Parcelable}
+[2024-03-14 06:43:23.223] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.g.a.i.e
+[2024-03-14 06:43:23.226] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.g.a.i.e$a
+[2024-03-14 06:43:23.229] true f.l.a.a.g.a.i.e
+[2024-03-14 06:43:23.230] calling void writeToParcel(android.os.Parcel,int) in h.a.a.k.b
+[2024-03-14 06:43:23.231] calling java.lang.Object createFromParcel(android.os.Parcel) in h.a.a.k.b$a
+[2024-03-14 06:43:23.234] true h.a.a.k.b
+[2024-03-14 06:43:23.234] calling void writeToParcel(android.os.Parcel,int) in h.a.a.k.a
+[2024-03-14 06:43:23.235] calling java.lang.Object createFromParcel(android.os.Parcel) in h.a.a.k.a$a
+[2024-03-14 06:43:23.237] true h.a.a.k.a
+[2024-03-14 06:43:23.241] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.internal.i
+[2024-03-14 06:43:23.245] code wrong with com.google.android.material.internal.i cannot find creator
+[2024-03-14 06:43:23.245] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.timepicker.b
+[2024-03-14 06:43:23.246] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.timepicker.b$a
+[2024-03-14 06:43:23.249] true com.google.android.material.timepicker.b
+[2024-03-14 06:43:23.249] calling void writeToParcel(android.os.Parcel,int) in com.shaiban.audioplayer.mplayer.audio.playlist.f.c
+[2024-03-14 06:43:23.251] calling java.lang.Object createFromParcel(android.os.Parcel) in com.shaiban.audioplayer.mplayer.audio.playlist.f.c$a
+[2024-03-14 06:43:23.253] true com.shaiban.audioplayer.mplayer.audio.playlist.f.c
+[2024-03-14 06:43:23.254] calling void writeToParcel(android.os.Parcel,int) in com.shaiban.audioplayer.mplayer.audio.playlist.e.d
+[2024-03-14 06:43:23.256] calling java.lang.Object createFromParcel(android.os.Parcel) in com.shaiban.audioplayer.mplayer.audio.playlist.e.d$a
+[2024-03-14 06:43:23.258] true com.shaiban.audioplayer.mplayer.audio.playlist.e.d
+[2024-03-14 06:43:23.258] calling void writeToParcel(android.os.Parcel,int) in com.shaiban.audioplayer.mplayer.audio.playlist.e.g
+[2024-03-14 06:43:23.260] calling java.lang.Object createFromParcel(android.os.Parcel) in com.shaiban.audioplayer.mplayer.audio.playlist.e.g$a
+[2024-03-14 06:43:23.262] true com.shaiban.audioplayer.mplayer.audio.playlist.e.g
+[2024-03-14 06:43:23.263] calling void writeToParcel(android.os.Parcel,int) in f.g.a.d.y.d$a
+[2024-03-14 06:43:23.264] calling java.lang.Object createFromParcel(android.os.Parcel) in f.g.a.d.y.d$a$a
+[2024-03-14 06:43:23.267] true f.g.a.d.y.d$a
+[2024-03-14 06:43:23.268] calling void writeToParcel(android.os.Parcel,int) in com.google.android.gms.internal.ads.ek4
+[2024-03-14 06:43:23.269] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.gms.internal.ads.ch4
+[2024-03-14 06:43:23.271] true com.google.android.gms.internal.ads.ek4
+[2024-03-14 06:43:23.272] calling void writeToParcel(android.os.Parcel,int) in com.shaiban.audioplayer.mplayer.audio.common.view.BreadCrumbLayout$a
+[2024-03-14 06:43:23.273] calling java.lang.Object createFromParcel(android.os.Parcel) in com.shaiban.audioplayer.mplayer.audio.common.view.BreadCrumbLayout$a$a
+[2024-03-14 06:43:23.275] true com.shaiban.audioplayer.mplayer.audio.common.view.BreadCrumbLayout$a
+[2024-03-14 06:43:23.275] calling void writeToParcel(android.os.Parcel,int) in com.shaiban.audioplayer.mplayer.audio.common.view.BreadCrumbLayout$b
+[2024-03-14 06:43:23.277] calling java.lang.Object createFromParcel(android.os.Parcel) in com.shaiban.audioplayer.mplayer.audio.common.view.BreadCrumbLayout$b$a
+[2024-03-14 06:43:23.279] true com.shaiban.audioplayer.mplayer.audio.common.view.BreadCrumbLayout$b
+[2024-03-14 06:43:23.279] calling void writeToParcel(android.os.Parcel,int) in com.google.android.gms.internal.ads.z50
+[2024-03-14 06:43:23.284] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.gms.internal.ads.a40
+[2024-03-14 06:43:23.290] unknown stop com.google.android.gms.internal.ads.z50
+[2024-03-14 06:43:23.292] calling void writeToParcel(android.os.Parcel,int) in com.google.android.gms.internal.ads.dj4
+[2024-03-14 06:43:23.294] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.gms.internal.ads.ci4
+[2024-03-14 06:43:23.296] true com.google.android.gms.internal.ads.dj4
+[2024-03-14 06:43:23.297] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.datepicker.a
+[2024-03-14 06:43:23.298] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.datepicker.a$a
+[2024-03-14 06:43:23.301] true com.google.android.material.datepicker.a
+[2024-03-14 06:43:23.302] calling void writeToParcel(android.os.Parcel,int) in com.google.android.material.datepicker.l
+[2024-03-14 06:43:23.303] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.material.datepicker.l$a
+[2024-03-14 06:43:23.304] true com.google.android.material.datepicker.l
+[2024-03-14 06:43:23.305] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.c.b.h.l
+[2024-03-14 06:43:23.310] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.c.b.h.l$a
+[2024-03-14 06:43:23.315] true f.l.a.a.c.b.h.l
+[2024-03-14 06:43:23.315] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.c.b.h.c
+[2024-03-14 06:43:23.317] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.c.b.h.c$a
+[2024-03-14 06:43:23.319] true f.l.a.a.c.b.h.c
+[2024-03-14 06:43:23.320] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.c.b.h.a
+[2024-03-14 06:43:23.321] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.c.b.h.a$a
+[2024-03-14 06:43:23.323] true f.l.a.a.c.b.h.a
+[2024-03-14 06:43:23.323] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.c.b.h.b
+[2024-03-14 06:43:23.324] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.c.b.h.b$a
+[2024-03-14 06:43:23.328] true f.l.a.a.c.b.h.b
+[2024-03-14 06:43:23.328] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.c.b.h.g
+[2024-03-14 06:43:23.329] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.c.b.h.g$a
+[2024-03-14 06:43:23.331] true f.l.a.a.c.b.h.g
+[2024-03-14 06:43:23.331] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.c.b.h.h
+[2024-03-14 06:43:23.334] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.c.b.h.h$a
+[2024-03-14 06:43:23.336] true f.l.a.a.c.b.h.h
+[2024-03-14 06:43:23.337] calling void writeToParcel(android.os.Parcel,int) in f.l.a.a.c.b.h.f
+[2024-03-14 06:43:23.339] calling java.lang.Object createFromParcel(android.os.Parcel) in f.l.a.a.c.b.h.f$a
+[2024-03-14 06:43:23.342] true f.l.a.a.c.b.h.f
+[2024-03-14 06:43:23.343] calling void writeToParcel(android.os.Parcel,int) in com.shaiban.audioplayer.mplayer.audio.equalizer.g
+[2024-03-14 06:43:23.345] calling java.lang.Object createFromParcel(android.os.Parcel) in com.shaiban.audioplayer.mplayer.audio.equalizer.g$a
+[2024-03-14 06:43:23.346] true com.shaiban.audioplayer.mplayer.audio.equalizer.g
+[2024-03-14 06:43:23.347] calling void writeToParcel(android.os.Parcel,int) in f.g.a.d.n.b$a
+[2024-03-14 06:43:23.351] calling java.lang.Object createFromParcel(android.os.Parcel) in f.g.a.d.n.b$a$a
+[2024-03-14 06:43:23.356] true f.g.a.d.n.b$a
+[2024-03-14 06:43:23.356] calling void writeToParcel(android.os.Parcel,int) in com.google.android.gms.internal.ads.zm
+[2024-03-14 06:43:23.359] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.gms.internal.ads.xm
+[2024-03-14 06:43:23.362] unknown stop com.google.android.gms.internal.ads.zm
+[2024-03-14 06:43:23.364] calling void writeToParcel(android.os.Parcel,int) in com.google.android.gms.internal.ads.nk
+[2024-03-14 06:43:23.366] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.gms.internal.ads.mk
+[2024-03-14 06:43:23.368] true com.google.android.gms.internal.ads.nk
+[2024-03-14 06:43:23.368] calling void writeToParcel(android.os.Parcel,int) in com.google.android.gms.internal.ads.ni
+[2024-03-14 06:43:23.376] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.gms.internal.ads.mi
+[2024-03-14 06:43:23.383] unknown stop com.google.android.gms.internal.ads.ni
+[2024-03-14 06:43:23.384] calling void writeToParcel(android.os.Parcel,int) in com.google.android.gms.internal.ads.oq
+[2024-03-14 06:43:23.386] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.gms.internal.ads.nq
+[2024-03-14 06:43:23.388] true com.google.android.gms.internal.ads.oq
+[2024-03-14 06:43:23.389] calling void writeToParcel(android.os.Parcel,int) in com.google.android.gms.internal.ads.ok
+[2024-03-14 06:43:23.390] calling java.lang.Object createFromParcel(android.os.Parcel) in com.google.android.gms.internal.ads.lk
+[2024-03-14 06:43:23.391] true com.google.android.gms.internal.ads.ok
+[2024-03-14 06:43:23.391] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.source.TrackGroupArray
+[2024-03-14 06:43:23.400] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.Er
+[2024-03-14 06:43:23.403] unknown stop com.facebook.ads.internal.exoplayer2.source.TrackGroupArray
+[2024-03-14 06:43:23.404] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.androidx.support.v4.view.AbsSavedState
+[2024-03-14 06:43:23.406] code wrong with com.facebook.ads.internal.androidx.support.v4.view.AbsSavedState cannot find creator
+[2024-03-14 06:43:23.406] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.androidx.support.v7.widget.LinearLayoutManager$SavedState
+[2024-03-14 06:43:23.407] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.49
+[2024-03-14 06:43:23.410] true com.facebook.ads.internal.androidx.support.v7.widget.LinearLayoutManager$SavedState
+[2024-03-14 06:43:23.410] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.source.TrackGroup
+[2024-03-14 06:43:23.414] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.Ep
+[2024-03-14 06:43:23.417] unknown stop com.facebook.ads.internal.exoplayer2.source.TrackGroup
+[2024-03-14 06:43:23.418] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.trackselection.DefaultTrackSelector$Parameters
+[2024-03-14 06:43:23.427] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.G4
+[2024-03-14 06:43:23.436] true com.facebook.ads.internal.exoplayer2.trackselection.DefaultTrackSelector$Parameters
+[2024-03-14 06:43:23.436] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.video.ColorInfo
+[2024-03-14 06:43:23.438] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.Ho
+[2024-03-14 06:43:23.441] true com.facebook.ads.internal.exoplayer2.video.ColorInfo
+[2024-03-14 06:43:23.441] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.trackselection.DefaultTrackSelector$SelectionOverride
+[2024-03-14 06:43:23.443] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.G7
+[2024-03-14 06:43:23.446] false com.facebook.ads.internal.exoplayer2.trackselection.DefaultTrackSelector$SelectionOverride {Int, Byte, IntArray} vs {Int, Int, IntArray}
+[2024-03-14 06:43:23.446] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.metadata.Metadata
+[2024-03-14 06:43:23.451] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.Cz
+[2024-03-14 06:43:23.455] unknown stop com.facebook.ads.internal.exoplayer2.metadata.Metadata
+[2024-03-14 06:43:23.455] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.Format
+[2024-03-14 06:43:23.465] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.9J
+[2024-03-14 06:43:23.472] unknown stop com.facebook.ads.internal.exoplayer2.Format
+[2024-03-14 06:43:23.473] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.drm.DrmInitData$SchemeData
+[2024-03-14 06:43:23.475] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.B2
+[2024-03-14 06:43:23.478] true com.facebook.ads.internal.exoplayer2.drm.DrmInitData$SchemeData
+[2024-03-14 06:43:23.478] calling void writeToParcel(android.os.Parcel,int) in com.facebook.ads.internal.exoplayer2.drm.DrmInitData
+[2024-03-14 06:43:23.479] calling java.lang.Object createFromParcel(android.os.Parcel) in com.facebook.ads.redexgen.X.B1
+[2024-03-14 06:43:23.481] true com.facebook.ads.internal.exoplayer2.drm.DrmInitData
